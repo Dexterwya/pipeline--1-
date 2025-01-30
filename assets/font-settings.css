@@ -1,0 +1,82 @@
+
+
+
+@font-face {
+  font-family: "Tenor Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//novehome.com/cdn/fonts/tenor_sans/tenorsans_n4.ef7b684f1cfa0d3a90338d1fa5f36acdf7889632.woff2?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=5583c5b4a4f60b7bbd0ae9b9c0fbd4bc50a5674fb6218b6a07274c07496170ec") format("woff2"),
+       url("//novehome.com/cdn/fonts/tenor_sans/tenorsans_n4.514efc84ed8364b455bb5dd12e65583fe93ccf0f.woff?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=e50e6d529fdd61514ae6c80866cc9d0a2cfb90de89b9d41409c1c6ea6487e881") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n4.73cf0589f7839ec88463a09f5335a2885467ed0c.woff2?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=5401e543ee3b7b3e909dbefc9a331b88241aaeca4a1cb7246a1754478dc0a983") format("woff2"),
+       url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n4.1c5276ef69780b63aa8f0ba7897fb3bc87270bb0.woff?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=b46c823c3b3598de508a06f4557e5259197609d90c6ce9c7b623a5e78dfad4d2") format("woff");
+}
+
+@font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n4.73cf0589f7839ec88463a09f5335a2885467ed0c.woff2?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=5401e543ee3b7b3e909dbefc9a331b88241aaeca4a1cb7246a1754478dc0a983") format("woff2"),
+       url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n4.1c5276ef69780b63aa8f0ba7897fb3bc87270bb0.woff?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=b46c823c3b3598de508a06f4557e5259197609d90c6ce9c7b623a5e78dfad4d2") format("woff");
+}
+
+
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n6.dd3d6084d29e4754e80fe6aa1c0e37f511474ffa.woff2?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=75f74566d139d81b7aeb1fa50e4c217e93d98b3c59f353adae1696f8944c6bb4") format("woff2"),
+       url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n6.b0d6879084373b473d0c7a4c3d54ece9c289cbb4.woff?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=7cc8ababe22266d27ed1f42fbeb0f1c4f3f26d0d74d852b942a652acc334581f") format("woff");
+}
+
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n6.dd3d6084d29e4754e80fe6aa1c0e37f511474ffa.woff2?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=75f74566d139d81b7aeb1fa50e4c217e93d98b3c59f353adae1696f8944c6bb4") format("woff2"),
+       url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_n6.b0d6879084373b473d0c7a4c3d54ece9c289cbb4.woff?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=7cc8ababe22266d27ed1f42fbeb0f1c4f3f26d0d74d852b942a652acc334581f") format("woff");
+}
+
+
+
+
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_i4.ccbfea79fd847e76d49925a923aa89064359e629.woff2?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=70bce66b3f0c18043651b401a1ed101033a4e7d2eb81ad683a16932329de1e20") format("woff2"),
+       url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_i4.e5c05a10aacfb8cc7fdf892df8dba937a214e6e7.woff?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=623ddefa27b273019eee19ff073f0e74f138a9755347ceb020bac1254114781f") format("woff");
+}
+
+
+
+  @font-face {
+  font-family: "Harmonia Sans";
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  src: url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_i6.d520474355816f56169b3a79baa14d2c479da2ba.woff2?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=98d204d9a0e82ea717865b54aa6dfa00cf68efe83dbf6ad645ea8424e2594f0a") format("woff2"),
+       url("//novehome.com/cdn/fonts/harmonia_sans/harmoniasans_i6.5ea0fa072a0601a91bbd7e0301549f9159a09ada.woff?h1=MWVkMWJmLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=c2hvcG5vdmUuY29t&h3=bm92ZWhvbWUuY29t&hmac=29c867b77ff6660e8a3cf035a3d7528885b9708e34e0469740b67f1af32f531f") format("woff");
+}
+
+
