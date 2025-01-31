@@ -17,7 +17,7 @@
         "announce_text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Make an announcement</strong> | More info</p>",
+            "text": "<p><strong>CLICK & COLLECT AVAILABLE NOW</strong></p>",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
@@ -29,7 +29,7 @@
         "announce_shipping": {
           "type": "message",
           "settings": {
-            "message": "Spend ||amount|| more for free shipping",
+            "message": "CLICK & AND COLLECT NOW AVAILABLE",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
@@ -76,7 +76,7 @@
             "wh_ratio": 2,
             "wide_element": false,
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Pinned to item 1",
             "title_color": "text--neutral",
             "button_style": "is-on-image",
@@ -94,7 +94,7 @@
             "wh_ratio": 0.8,
             "wide_element": false,
             "overlay_opacity": 0,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "title": "Pinned to item 2",
             "title_color": "text--neutral",
             "button_style": "is-below-image",
@@ -130,7 +130,7 @@
         "header-block-image-3"
       ],
       "settings": {
-        "header_style": "logo_center",
+        "header_style": "drawer",
         "logo": "{{ shop.brand.logo }}",
         "logo_max_limit": 120,
         "logo_padding": 15,
@@ -144,7 +144,7 @@
         "use_icons": true,
         "icons_type": "classic",
         "cart_icon": "bag",
-        "header_sticky": "static",
+        "header_sticky": "sticky",
         "transparent_home": true,
         "transparent_collection": false,
         "transparent_blog": false,
