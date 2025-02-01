@@ -28,7 +28,7 @@
           "settings": {
             "linklist": "footer",
             "title": "",
-            "accordion_default": ""
+            "accordion_default": "accordion-is-open"
           }
         },
         "text-3": {
