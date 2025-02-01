@@ -9,8 +9,47 @@
  */
 {
   "sections": {
+    "section_hero_eNxjWc": {
+      "type": "section-hero",
+      "blocks": {
+        "heading_XDmyxH": {
+          "type": "heading",
+          "settings": {
+            "title": "EXCHANGE POLICY",
+            "text_size": 10
+          }
+        },
+        "text_ek8jiy": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p>Shop with Confidence: Our Generous Exchange Policy</p><ul><li></li></ul>",
+            "text_size": 6
+          }
+        }
+      },
+      "block_order": [
+        "heading_XDmyxH",
+        "text_ek8jiy"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/woman-receiving-her-new-cyber-monday-purchase-close-up_23-2148674972.jpg",
+        "height": "use_screen_three_quarters",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "kicker": "",
         "kicker_size": 3,
@@ -25,9 +64,36 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_richtext_Gkxgwe": {
+      "type": "section-richtext",
+      "blocks": {
+        "text_H9TYiz": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>We want you to love your Siamo Firenze purchase, but if you need to make an exchange, we're here to help.</li><li>We accept size exchanges within 5 days of receiving your product.</li><li>To be eligible for an exchange, the item must be in perfect condition, with all tags attached.</li><li>Please note: Refunds: We do not offer refunds at this time.</li><li>Exchange Eligibility: Size exchanges are allowed within 5 days of receiving the product.</li><li>Condition: Items must be returned in perfect condition with tags attached to be eligible for an exchange.</li><li>To initiate an exchange, please contact our customer service team at info@siamofirenze.com with your order details and reason for exchange.</li><li>Once your exchange request is approved, we’ll provide you with further instructions on how to proceed.</li></ul>",
+            "text_size": 4,
+            "text_columns": 1
+          }
+        }
+      },
+      "block_order": [
+        "text_H9TYiz"
+      ],
+      "settings": {
+        "align_text": "text-left",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "section_hero_eNxjWc",
+    "main",
+    "section_richtext_Gkxgwe"
   ]
 }
