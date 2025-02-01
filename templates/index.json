@@ -73,7 +73,7 @@
         "collection_yQkHzX"
       ],
       "settings": {
-        "title": "Catalog",
+        "title": "The Dresses Corner",
         "bg": "palette--light bg--neutral",
         "grid": 4,
         "rows": 1,
@@ -219,36 +219,34 @@
         "padding_bottom": 36
       }
     },
-    "section_look_KixxRr": {
-      "type": "section-look",
+    "section_custom_content_zwcxaL": {
+      "type": "section-custom-content",
       "blocks": {
-        "product_7LyLKw": {
+        "product_nWKD3J": {
           "type": "product",
           "settings": {
-            "product": "double-breasted-cinched-blazer",
-            "position_x": 60,
-            "position_y": 60,
-            "position_x_mobile": 50,
-            "position_y_mobile": 50
+            "product": "chick-kitten-set",
+            "kicker": "Shop the look",
+            "badge_string": "",
+            "align_text": "text-center",
+            "text_color": "text--neutral",
+            "bg_color": "#f7f7f7",
+            "bg_accent": "#ffffff"
           }
         }
       },
       "block_order": [
-        "product_7LyLKw"
+        "product_nWKD3J"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG-8646.jpg",
-        "wh_ratio": 1.7,
-        "default_open": false,
-        "dot_color": "palette--dark bg--invert",
-        "card_color": "palette--light bg--neutral",
-        "position": "look__products__holder--right",
-        "grid_small": 1.2,
-        "image_mobile_enable": false,
-        "wh_ratio_mobile": 1,
-        "width": "wrapper--none",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "section_product_f9g7ie": {
@@ -563,7 +561,7 @@
     "section_list_collections_products_tELcmD",
     "list-collections",
     "tabs",
-    "section_look_KixxRr",
+    "section_custom_content_zwcxaL",
     "section_product_f9g7ie",
     "section_hero_PGTEWM",
     "section_list_collections_products_qikGe7",
