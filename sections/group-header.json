@@ -132,7 +132,7 @@
       "settings": {
         "header_style": "menu_center",
         "logo": "shopify://shop_images/New_Project_6_2e40e459-49c9-4662-83c5-be4f42441cd0.png",
-        "logo_max_limit": 120,
+        "logo_max_limit": 150,
         "logo_padding": 15,
         "logo_text_size": 5,
         "main_menu_linklist": "main-menu",
