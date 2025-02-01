@@ -57,6 +57,7 @@
         "announce_shipping",
         "text_ifbn4R"
       ],
+      "disabled": true,
       "settings": {
         "text_size": 3,
         "layout": "slider",
