@@ -151,13 +151,30 @@
             "collection_url": "",
             "text_color": "text--white"
           }
+        },
+        "collection_BDnEJL": {
+          "type": "collection",
+          "settings": {
+            "collection": "sets",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "top_text": "",
+            "top_text_disabled": false,
+            "title": "",
+            "title_disabled": false,
+            "bottom_text": "",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
         }
       },
       "block_order": [
         "list-collections-0",
         "list-collections-1",
         "list-collections-3",
-        "list-collections-4"
+        "list-collections-4",
+        "collection_BDnEJL"
       ],
       "settings": {
         "title": "Categories",
