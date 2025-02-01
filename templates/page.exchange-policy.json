@@ -68,17 +68,80 @@
     "section_richtext_Gkxgwe": {
       "type": "section-richtext",
       "blocks": {
-        "text_H9TYiz": {
-          "type": "text",
+        "kicker_hPBEUG": {
+          "type": "kicker",
           "settings": {
-            "text": "<ul><li>We want you to love your Siamo Firenze purchase, but if you need to make an exchange, we're here to help.</li><li>We accept size exchanges within 5 days of receiving your product.</li><li>To be eligible for an exchange, the item must be in perfect condition, with all tags attached.</li><li>Please note: Refunds: We do not offer refunds at this time.</li><li>Exchange Eligibility: Size exchanges are allowed within 5 days of receiving the product.</li><li>Condition: Items must be returned in perfect condition with tags attached to be eligible for an exchange.</li><li>To initiate an exchange, please contact our customer service team at info@siamofirenze.com with your order details and reason for exchange.</li><li>Once your exchange request is approved, we’ll provide you with further instructions on how to proceed.</li></ul>",
-            "text_size": 4,
-            "text_columns": 1
+            "kicker": "We want you to love your Siamo Firenze purchase, but if you need to make an exchange, we're here to help.",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "kicker_RyjKba": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "We accept size exchanges within 5 days of receiving your product.",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "kicker_X3PDgU": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "To be eligible for an exchange, the item must be in perfect condition, with all tags attached.",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "kicker_8nR7wd": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Please note: Refunds: We do not offer refunds at this time.",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "kicker_NqRHrQ": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Exchange Eligibility: Size exchanges are allowed within 5 days of receiving the product.",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "kicker_4BwJEw": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Condition: Items must be returned in perfect condition with tags attached to be eligible for an exchange.",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "kicker_WiUY68": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "To initiate an exchange, please contact our customer service team at info@siamofirenze.com with your order details and reason for exchange.",
+            "enable_line": true,
+            "text_size": 4
+          }
+        },
+        "kicker_VtcgJ8": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Once your exchange request is approved, we’ll provide you with further instructions on how to proceed.",
+            "enable_line": true,
+            "text_size": 4
           }
         }
       },
       "block_order": [
-        "text_H9TYiz"
+        "kicker_hPBEUG",
+        "kicker_RyjKba",
+        "kicker_X3PDgU",
+        "kicker_8nR7wd",
+        "kicker_NqRHrQ",
+        "kicker_4BwJEw",
+        "kicker_WiUY68",
+        "kicker_VtcgJ8"
       ],
       "settings": {
         "align_text": "text-left",
