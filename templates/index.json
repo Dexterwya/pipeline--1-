@@ -349,6 +349,21 @@
         "padding_bottom": 36
       }
     },
+    "section_recent_products_WctWVc": {
+      "type": "section-recent-products",
+      "settings": {
+        "bg": "palette--light bg--neutral",
+        "product_recently_heading": "Recently viewed",
+        "product_recently_limit": 6,
+        "product_recently_minimum": 3,
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_small": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "section_product_f9g7ie": {
       "type": "section-product",
       "blocks": {
@@ -791,6 +806,7 @@
     "collection-split-section-1",
     "collection-split-section-2",
     "product-grid",
+    "section_recent_products_WctWVc",
     "section_product_f9g7ie",
     "section_hero_PGTEWM",
     "cols",
