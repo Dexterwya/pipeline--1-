@@ -38,11 +38,24 @@
             "target_device_enabled": false,
             "target_device": "mobile"
           }
+        },
+        "text_ifbn4R": {
+          "type": "text",
+          "settings": {
+            "text": "<p>FREE DELIVERY AVAILABLE ABOVE 60$</p><p></p>",
+            "target_url_enabled": false,
+            "target_url": "",
+            "target_referrer_enabled": false,
+            "target_referrer": "",
+            "target_device_enabled": false,
+            "target_device": "mobile"
+          }
         }
       },
       "block_order": [
         "announce_text",
-        "announce_shipping"
+        "announce_shipping",
+        "text_ifbn4R"
       ],
       "settings": {
         "text_size": 3,
