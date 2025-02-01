@@ -165,11 +165,39 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "section_gallery_text_XxNbPh": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "text_6BgL8f": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "title_size": 3,
+            "text": "<h6>Craftsmanship Rooted in Tradition and Innovation</h6><p>At Siamo Firenze, we believe that every piece of clothing should be a testament to the blend of timeless tradition and modern innovation. Our manufacturing process is a meticulous journey that ensures each garment embodies the elegance and sophistication that defines our brand.</p>",
+            "body_size": 4,
+            "text_align": "text-left"
+          }
+        }
+      },
+      "block_order": [
+        "text_6BgL8f"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral",
+        "grid_large": 1,
+        "grid_medium": 1,
+        "grid_mobile": 1,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "section_gallery_text_frUTDE",
-    "section_slideshow_bWkaRr"
+    "section_slideshow_bWkaRr",
+    "section_gallery_text_XxNbPh"
   ]
 }
