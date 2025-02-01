@@ -17,7 +17,7 @@
         "announce_text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>CLICK & COLLECT AVAILABLE NOW</strong></p>",
+            "text": "<p><strong>Free Delivery available above 60$</strong></p>",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
