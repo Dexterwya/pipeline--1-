@@ -482,27 +482,27 @@
         "heading_TQnJG6": {
           "type": "heading",
           "settings": {
-            "title": "Image banner",
+            "title": "Siamo",
             "text_size": 10
           }
         },
         "text_fjefPP": {
           "type": "text",
           "settings": {
-            "richtext": "<p>This area is used to describe your store.</p>",
+            "richtext": "<p>as shown dressed on</p>",
             "text_size": 6
           }
         },
         "button_kMHVqV": {
           "type": "button",
           "settings": {
-            "link_text_1": "View products",
-            "link_1": "",
+            "link_text_1": "View product",
+            "link_1": "shopify://products/untitled-jan17_13-22",
             "button_size_1": "btn--long",
-            "button_style_1": "btn",
+            "button_style_1": "btn--outline",
             "button_color_1": "btn--white",
             "link_text_2": "Learn more",
-            "link_2": "",
+            "link_2": "shopify://collections/all",
             "button_size_2": "btn--long",
             "button_style_2": "btn-text-thick-line",
             "button_color_2": "btn--white",
@@ -521,6 +521,8 @@
         "button_kMHVqV"
       ],
       "settings": {
+        "image": "shopify://shop_images/4m7gA4qatwWaRD04kfu3fg.jpg",
+        "mobile_image": "shopify://shop_images/4m7gA4qatwWaRD04kfu3fg.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000",
