@@ -29,7 +29,7 @@
         "announce_shipping": {
           "type": "message",
           "settings": {
-            "message": "CLICK & AND COLLECT NOW AVAILABLE",
+            "message": "Free Delivery available above 60$",
             "target_url_enabled": false,
             "target_url": "",
             "target_referrer_enabled": false,
