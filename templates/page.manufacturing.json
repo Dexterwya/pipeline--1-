@@ -77,6 +77,7 @@
         "image_MaFYWR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/woman-in-white-dress-outside.jpg",
             "overlay_opacity": 15,
             "overlay_color": "#000",
             "enable_overlay_text": false,
@@ -85,7 +86,7 @@
             "richtext": "",
             "text_align": "align--middle-center",
             "text_color": "text--white",
-            "link_text": "Shop Now",
+            "link_text": "",
             "link": "",
             "button_color": "btn--white",
             "button_style": "btn"
@@ -95,6 +96,168 @@
       "block_order": [
         "text_8VXikw",
         "image_MaFYWR"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_wX4UAw": {
+      "type": "section-double",
+      "blocks": {
+        "image_fVniM3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/florence-cathedral-an-unfamiliar-view.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "text_bhwHtK": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><strong>Designed in Florence, Crafted in Beirut</strong></p><p>Our designs are born in the heart of Florence, where our creative team draws inspiration from the rich cultural heritage and artistic excellence of the city. Each sketch and concept is infused with the spirit of Italian craftsmanship, setting the foundation for garments that are both contemporary and classic.</p><p>Once the designs are perfected, they travel to Beirut, where they are brought to life by skilled artisans. Our manufacturing process in Beirut combines traditional techniques with advanced technology, ensuring that every piece meets the highest standards of quality and precision.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_fVniM3",
+        "text_bhwHtK"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_dFA3bw": {
+      "type": "section-double",
+      "blocks": {
+        "text_HEQMt3": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><strong>Ethical and Sustainable Practices</strong></p><p>We are committed to ethical manufacturing practices that respect both people and the planet. Our production process prioritizes sustainability at every step, from sourcing eco-friendly materials to minimizing waste. We work closely with our artisans to ensure fair wages and safe working conditions, fostering a positive and supportive environment.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image_Dq3AxQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cooling-the-countryside.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_HEQMt3",
+        "image_Dq3AxQ"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_9cAjPy": {
+      "type": "section-double",
+      "blocks": {
+        "image_j6Da8X": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/top-down-view-of-sewing.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "text_DVGzpN": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><strong>Quality Materials, Superior Finish, Attention to Detail</strong></p><p>At Siamo Firenze, we source only the finest materials to create our garments. From luxurious fabrics to intricate embellishments, every element is chosen with care to ensure the highest quality. Our attention to detail extends to every stitch, resulting in pieces that are not only beautiful but also durable and long-lasting.Our manufacturing process is characterized by an unwavering attention to detail. Each garment undergoes rigorous quality control checks to ensure it meets our exacting standards. From the initial cut of the fabric to the final inspection, every step is carried out with precision and care.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_j6Da8X",
+        "text_DVGzpN"
       ],
       "settings": {
         "height": "use_screen_one_half",
@@ -156,6 +319,9 @@
     "main",
     "section_gallery_text_frUTDE",
     "section_double_9AiCPy",
+    "section_double_wX4UAw",
+    "section_double_dFA3bw",
+    "section_double_9cAjPy",
     "section_faq_mf9UNp"
   ]
 }
