@@ -69,7 +69,7 @@
       "settings": {
         "title": "NEW THIS WEEK",
         "progress_bar": "mobile",
-        "grid_large": 4,
+        "grid_large": 5,
         "grid_medium": 4,
         "grid_mobile": 1.1,
         "limit": 6,
