@@ -128,13 +128,32 @@
             "button_color": "btn--white",
             "button_style": "btn"
           }
+        },
+        "image_y9M63y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2870132D-925A-43F3-90F4-761C5CC3A5AC.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
         }
       },
       "block_order": [
         "image_VeGVGW",
         "image_PYB4bU",
         "image_fe9RXJ",
-        "image_Njeq4q"
+        "image_Njeq4q",
+        "image_y9M63y"
       ],
       "settings": {
         "autoplay": true,
@@ -142,7 +161,7 @@
         "preload_first_image": false,
         "height": "use_screen_two_thirds",
         "color_bg": "palette--light bg--neutral",
-        "width": "wrapper--none",
+        "width": "wrapper--narrow",
         "padding_top": 0,
         "padding_bottom": 0
       }
