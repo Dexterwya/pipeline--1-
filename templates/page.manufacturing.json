@@ -54,85 +54,29 @@
         "padding_bottom": 36
       }
     },
-    "section_slideshow_bWkaRr": {
-      "type": "section-slideshow",
+    "section_double_9AiCPy": {
+      "type": "section-double",
       "blocks": {
-        "image_VeGVGW": {
-          "type": "image",
+        "text_8VXikw": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/2B6E2CC5-58EE-4806-95DF-C79FD9531FED.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "enable_overlay_text": false,
             "kicker": "",
             "title": "",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "btn"
+            "text": "<p><strong>Craftsmanship Rooted in Tradition and Innovation</strong></p><p>At Siamo Firenze, we believe that every piece of clothing should be a testament to the blend of timeless tradition and modern innovation. Our manufacturing process is a meticulous journey that ensures each garment embodies the elegance and sophistication that defines our brand.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
           }
         },
-        "image_PYB4bU": {
+        "image_MaFYWR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_9050_2b92329f-af13-42e9-aeb6-1c3856c7a04b.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "enable_overlay_text": false,
-            "kicker": "",
-            "title": "",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "btn"
-          }
-        },
-        "image_fe9RXJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Wk29_Portrait_598px_by_897pxTranseasonal_4.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "enable_overlay_text": false,
-            "kicker": "",
-            "title": "",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "btn"
-          }
-        },
-        "image_Njeq4q": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/6FD2D6DE-DCCB-4394-B8EC-64B0B49E1441.jpg",
-            "overlay_opacity": 0,
-            "overlay_color": "#000",
-            "enable_overlay_text": false,
-            "kicker": "",
-            "title": "",
-            "richtext": "",
-            "text_align": "align--middle-center",
-            "text_color": "text--white",
-            "link_text": "",
-            "link": "",
-            "button_color": "btn--white",
-            "button_style": "btn"
-          }
-        },
-        "image_y9M63y": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2870132D-925A-43F3-90F4-761C5CC3A5AC.jpg",
             "overlay_opacity": 15,
             "overlay_color": "#000",
             "enable_overlay_text": false,
@@ -141,7 +85,7 @@
             "richtext": "",
             "text_align": "align--middle-center",
             "text_color": "text--white",
-            "link_text": "",
+            "link_text": "Shop Now",
             "link": "",
             "button_color": "btn--white",
             "button_style": "btn"
@@ -149,45 +93,59 @@
         }
       },
       "block_order": [
-        "image_VeGVGW",
-        "image_PYB4bU",
-        "image_fe9RXJ",
-        "image_Njeq4q",
-        "image_y9M63y"
+        "text_8VXikw",
+        "image_MaFYWR"
       ],
       "settings": {
-        "autoplay": true,
-        "autoplay_speed": 1,
-        "preload_first_image": false,
-        "height": "use_screen_two_thirds",
-        "color_bg": "palette--light bg--neutral",
-        "width": "wrapper--narrow",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "section_gallery_text_XxNbPh": {
-      "type": "section-gallery-text",
+    "section_faq_mf9UNp": {
+      "type": "section-faq",
       "blocks": {
-        "text_6BgL8f": {
+        "text_pkjV3c": {
           "type": "text",
           "settings": {
-            "title": "",
-            "title_size": 3,
-            "text": "<h6>Craftsmanship Rooted in Tradition and Innovation</h6><p>At Siamo Firenze, we believe that every piece of clothing should be a testament to the blend of timeless tradition and modern innovation. Our manufacturing process is a meticulous journey that ensures each garment embodies the elegance and sophistication that defines our brand.</p>",
-            "body_size": 4,
-            "text_align": "text-left"
+            "title": "CUSTOMER CARE",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>"
+          }
+        },
+        "text_HAbgdJ": {
+          "type": "text",
+          "settings": {
+            "title": "IMPORTANT I NFO",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>"
+          }
+        },
+        "text_3U4i4n": {
+          "type": "text",
+          "settings": {
+            "title": "MORE",
+            "content": "<p>Share details about your shipping policies, item returns, or customer service.</p>"
           }
         }
       },
       "block_order": [
-        "text_6BgL8f"
+        "text_pkjV3c",
+        "text_HAbgdJ",
+        "text_3U4i4n"
       ],
+      "disabled": true,
       "settings": {
+        "title": "",
+        "title_align": "text-left",
+        "title_size": 4,
+        "heading_size": 5,
+        "text_size": 5,
+        "text_color": "text--neutral",
         "bg": "palette--light bg--neutral",
-        "grid_large": 1,
-        "grid_medium": 1,
-        "grid_mobile": 1,
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
@@ -197,7 +155,7 @@
   "order": [
     "main",
     "section_gallery_text_frUTDE",
-    "section_slideshow_bWkaRr",
-    "section_gallery_text_XxNbPh"
+    "section_double_9AiCPy",
+    "section_faq_mf9UNp"
   ]
 }
