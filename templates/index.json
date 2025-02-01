@@ -184,7 +184,7 @@
       "settings": {
         "image": "shopify://shop_images/IMG-8646.jpg",
         "wh_ratio": 1.7,
-        "default_open": true,
+        "default_open": false,
         "dot_color": "palette--dark bg--invert",
         "card_color": "palette--light bg--neutral",
         "position": "look__products__holder--right",
