@@ -325,9 +325,9 @@
           "type": "text",
           "settings": {
             "title": "WORK IT!",
-            "title_size": 3,
+            "title_size": 6,
             "text": "<p>Elevate your office attire with our edit</p>",
-            "body_size": 4,
+            "body_size": 5,
             "text_align": "text-center"
           }
         }
