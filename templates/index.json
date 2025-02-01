@@ -190,7 +190,7 @@
     "section_collection_eE8DjP": {
       "type": "section-collection",
       "settings": {
-        "title": "Featured Products",
+        "title": "",
         "collection": "tops",
         "grid": 4,
         "rows": 1,
