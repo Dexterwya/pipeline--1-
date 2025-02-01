@@ -164,6 +164,38 @@
         "padding_bottom": 36
       }
     },
+    "section_look_KixxRr": {
+      "type": "section-look",
+      "blocks": {
+        "product_7LyLKw": {
+          "type": "product",
+          "settings": {
+            "product": "double-breasted-cinched-blazer",
+            "position_x": 60,
+            "position_y": 60,
+            "position_x_mobile": 50,
+            "position_y_mobile": 50
+          }
+        }
+      },
+      "block_order": [
+        "product_7LyLKw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG-8646.jpg",
+        "wh_ratio": 1.7,
+        "default_open": true,
+        "dot_color": "palette--dark bg--invert",
+        "card_color": "palette--light bg--neutral",
+        "position": "look__products__holder--right",
+        "grid_small": 1.2,
+        "image_mobile_enable": false,
+        "wh_ratio_mobile": 1,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "section_product_f9g7ie": {
       "type": "section-product",
       "blocks": {
@@ -428,6 +460,7 @@
     "custom",
     "list-collections",
     "tabs",
+    "section_look_KixxRr",
     "section_product_f9g7ie",
     "section_hero_PGTEWM",
     "section_recent_products_WctWVc",
