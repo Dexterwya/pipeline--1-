@@ -205,7 +205,7 @@
         "icons_size": 30,
         "icon_alignment": "icon--top",
         "layout": "grid--stacked",
-        "align_text": "text-left",
+        "align_text": "text-center",
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
