@@ -249,127 +249,6 @@
         "padding_bottom": 36
       }
     },
-    "section_product_f9g7ie": {
-      "type": "section-product",
-      "blocks": {
-        "title_MKEH8G": {
-          "type": "title",
-          "settings": {
-            "text_size": 9,
-            "product_show_cutline": true,
-            "show_rating": true,
-            "show_rating_count": false,
-            "padding_bottom": 20
-          }
-        },
-        "price_rUyryH": {
-          "type": "price",
-          "settings": {
-            "price_size": 5,
-            "padding_bottom": 40
-          }
-        },
-        "variant_selectors_UdF9yA": {
-          "type": "variant-selectors",
-          "settings": {
-            "option_size_swatch": 34,
-            "option_size_radio": 50,
-            "option_space": 30,
-            "padding_bottom": 20
-          }
-        },
-        "subscription_Jy9WMf": {
-          "type": "subscription",
-          "settings": {
-            "subscriptions_enable_selectors": true,
-            "padding_bottom": 20
-          }
-        },
-        "quantity_iXtVqQ": {
-          "type": "quantity",
-          "disabled": true,
-          "settings": {
-            "show_quantity": true,
-            "padding_bottom": 20
-          }
-        },
-        "size_remaining_88NtJY": {
-          "type": "size-remaining",
-          "settings": {
-            "info_page": "",
-            "title": "",
-            "show_remaining": true,
-            "show_remaining_style": "low",
-            "countdown": 10,
-            "padding_bottom": 0
-          }
-        },
-        "add_buttons_633ff9": {
-          "type": "add-buttons",
-          "settings": {
-            "enable_payment_button": true,
-            "enable_gift_card_recipient": true,
-            "padding_bottom": 20
-          }
-        },
-        "description_katVRg": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-            "style": "none",
-            "enable_description": false,
-            "read_more": false,
-            "icon_description": "",
-            "description_expanded": false,
-            "title_1": "Information",
-            "icon_name_1": "",
-            "raw_content_1": "<p>This content type will accept <strong>rich text</strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.</p>",
-            "title_2": "Details",
-            "icon_name_2": "",
-            "raw_content_2": "<p>You can use product metafields to assign content to this tab that is unique to an individual product.  Use tabs to highlight unique features, sizing information, or other sales information.</p>",
-            "title_3": "",
-            "icon_name_3": "",
-            "raw_content_3": "",
-            "title_4": "",
-            "icon_name_4": "",
-            "raw_content_4": "",
-            "title_5": "",
-            "icon_name_5": "",
-            "raw_content_5": "",
-            "padding_bottom": 20
-          }
-        }
-      },
-      "block_order": [
-        "title_MKEH8G",
-        "price_rUyryH",
-        "variant_selectors_UdF9yA",
-        "subscription_Jy9WMf",
-        "quantity_iXtVqQ",
-        "size_remaining_88NtJY",
-        "add_buttons_633ff9",
-        "description_katVRg"
-      ],
-      "settings": {
-        "title": "Featured product",
-        "home_product": "aurdery-dress",
-        "layout": "thumbnails-below@slides",
-        "image_width": "half",
-        "image_spacing": 10,
-        "align": "left",
-        "bg": "palette--light bg--neutral",
-        "mobile_layout": "slideshow",
-        "enable_video_looping": true,
-        "zoom_enable": true,
-        "alt_text_enable": true,
-        "alt_text_icon": "icon-ruler",
-        "product_breadcrumbs_enable": false,
-        "product_breadcrumbs_list": [],
-        "width": "wrapper",
-        "padding_top": 24,
-        "padding_bottom": 36
-      }
-    },
     "section_hero_PGTEWM": {
       "type": "section-hero",
       "blocks": {
@@ -562,7 +441,6 @@
     "list-collections",
     "tabs",
     "section_custom_content_zwcxaL",
-    "section_product_f9g7ie",
     "section_hero_PGTEWM",
     "section_list_collections_products_qikGe7",
     "section_recent_products_WctWVc",
