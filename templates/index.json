@@ -137,9 +137,9 @@
       "settings": {
         "title": "Categories",
         "bg": "palette--light bg--neutral",
-        "carousel_enabled_on": "desktop",
+        "carousel_enabled_on": "hidden",
         "wh_ratio": 0.7,
-        "grid_large": 3,
+        "grid_large": 4,
         "grid_medium": 2,
         "grid_mobile": 1,
         "font_family": "accent",
