@@ -130,7 +130,7 @@
         "header-block-image-3"
       ],
       "settings": {
-        "header_style": "drawer",
+        "header_style": "menu_center",
         "logo": "{{ shop.brand.logo }}",
         "logo_max_limit": 120,
         "logo_padding": 15,
