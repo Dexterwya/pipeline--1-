@@ -288,18 +288,6 @@
         "padding_bottom": 0
       }
     },
-    "section_gallery_text_ULQV6P": {
-      "type": "section-gallery-text",
-      "settings": {
-        "bg": "palette--light bg--neutral",
-        "grid_large": 1,
-        "grid_medium": 1,
-        "grid_mobile": 1,
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
     "section_recent_products_WctWVc": {
       "type": "section-recent-products",
       "settings": {
@@ -404,7 +392,6 @@
     "section_collection_eE8DjP",
     "section_collection_slider_wpADw4",
     "section_hero_PGTEWM",
-    "section_gallery_text_ULQV6P",
     "section_recent_products_WctWVc",
     "section_gallery_text_L7gix3",
     "icons"
