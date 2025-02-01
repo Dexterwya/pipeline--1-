@@ -52,34 +52,29 @@
         "padding_bottom": 0
       }
     },
-    "section_list_collections_products_tELcmD": {
-      "type": "section-list-collections-products",
+    "tabs": {
+      "type": "section-collection-tabs",
       "blocks": {
-        "collection_yQkHzX": {
+        "tab-0": {
           "type": "collection",
           "settings": {
-            "collection": "dresses",
-            "title": "",
-            "link_text": "",
-            "enable_item": true,
-            "text": "",
-            "background_color": "#fcfaf7",
-            "text_color": "text--neutral",
-            "link_size": 3
+            "collection": "new-in",
+            "title": "View All"
           }
         }
       },
       "block_order": [
-        "collection_yQkHzX"
+        "tab-0"
       ],
       "settings": {
-        "title": "The Dresses Corner",
+        "title": "NEW THIS WEEK",
+        "progress_bar": "mobile",
+        "grid_large": 4,
+        "grid_medium": 4,
+        "grid_mobile": 1.1,
+        "limit": 6,
         "bg": "palette--light bg--neutral",
-        "grid": 4,
-        "rows": 1,
-        "enable_scroll_mobile": true,
-        "grid_small": 1.2,
-        "width": "wrapper",
+        "width": "wrapper--full",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -177,7 +172,7 @@
         "collection_BDnEJL"
       ],
       "settings": {
-        "title": "Categories",
+        "title": "",
         "bg": "palette--light bg--neutral",
         "carousel_enabled_on": "hidden",
         "wh_ratio": 0.7,
@@ -185,36 +180,41 @@
         "grid_medium": 2,
         "grid_mobile": 1,
         "font_family": "accent",
-        "title_size": 4,
-        "accent_size": 4,
+        "title_size": 1,
+        "accent_size": 1,
         "width": "wrapper--full",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
-    "tabs": {
-      "type": "section-collection-tabs",
+    "section_list_collections_products_tELcmD": {
+      "type": "section-list-collections-products",
       "blocks": {
-        "tab-0": {
+        "collection_yQkHzX": {
           "type": "collection",
           "settings": {
-            "collection": "new-in",
-            "title": "View All"
+            "collection": "dresses",
+            "title": "",
+            "link_text": "",
+            "enable_item": true,
+            "text": "",
+            "background_color": "#fcfaf7",
+            "text_color": "text--neutral",
+            "link_size": 3
           }
         }
       },
       "block_order": [
-        "tab-0"
+        "collection_yQkHzX"
       ],
       "settings": {
-        "title": "NEW THIS WEEK",
-        "progress_bar": "mobile",
-        "grid_large": 4,
-        "grid_medium": 4,
-        "grid_mobile": 1.2,
-        "limit": 6,
+        "title": "The Dresses Corner",
         "bg": "palette--light bg--neutral",
-        "width": "wrapper--full",
+        "grid": 4,
+        "rows": 1,
+        "enable_scroll_mobile": true,
+        "grid_small": 1.2,
+        "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -464,9 +464,9 @@
   },
   "order": [
     "section_video_BHrNna",
-    "section_list_collections_products_tELcmD",
-    "list-collections",
     "tabs",
+    "list-collections",
+    "section_list_collections_products_tELcmD",
     "section_custom_content_zwcxaL",
     "section_hero_PGTEWM",
     "section_gallery_text_ULQV6P",
