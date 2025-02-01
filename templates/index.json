@@ -16,20 +16,20 @@
           "type": "video",
           "settings": {
             "video_bg": "shopify://files/videos/d9ad6c52-25f8-4db5-bf21-0107710dc1b5.MP4",
-            "object_position": "center-center",
+            "object_position": "center-top",
             "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "popup_text": "",
             "kicker": "",
             "title": "",
             "richtext": "",
-            "text_align": "align--middle-center",
+            "text_align": "align--bottom-left",
             "text_color": "text--white",
             "overlay_opacity": 15,
             "overlay_color": "#000000",
-            "link_text": "",
-            "link": "",
+            "link_text": "NEW & NOW",
+            "link": "shopify://collections",
             "button_color": "btn--white",
-            "button_style": "btn"
+            "button_style": "btn--soft"
           }
         },
         "video-0": {
