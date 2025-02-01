@@ -71,7 +71,7 @@
         "progress_bar": "mobile",
         "grid_large": 5,
         "grid_medium": 4,
-        "grid_mobile": 1.1,
+        "grid_mobile": 1.9,
         "limit": 6,
         "bg": "palette--light bg--neutral",
         "width": "wrapper--full",
@@ -175,15 +175,15 @@
         "title": "",
         "bg": "palette--light bg--neutral",
         "carousel_enabled_on": "hidden",
-        "wh_ratio": 0.7,
-        "grid_large": 4,
+        "wh_ratio": 0.8,
+        "grid_large": 2,
         "grid_medium": 2,
         "grid_mobile": 1,
         "font_family": "accent",
         "title_size": 1,
         "accent_size": 1,
-        "width": "wrapper--full",
-        "padding_top": 0,
+        "width": "wrapper",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -210,11 +210,11 @@
       "settings": {
         "title": "The Dresses Corner",
         "bg": "palette--light bg--neutral",
-        "grid": 4,
+        "grid": 5,
         "rows": 1,
         "enable_scroll_mobile": true,
-        "grid_small": 1.2,
-        "width": "wrapper",
+        "grid_small": 1.7,
+        "width": "wrapper--full",
         "padding_top": 36,
         "padding_bottom": 36
       }
