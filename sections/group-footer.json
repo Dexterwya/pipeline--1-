@@ -41,7 +41,7 @@
           "type": "linklist",
           "settings": {
             "linklist": "footer",
-            "title": "",
+            "title": "HELP",
             "accordion_default": "accordion-is-open"
           }
         },
