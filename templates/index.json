@@ -9,39 +9,44 @@
  */
 {
   "sections": {
-    "custom": {
-      "type": "section-custom-content",
+    "section_video_BHrNna": {
+      "type": "section-video",
       "blocks": {
-        "video-1": {
-          "type": "video",
+        "button_DNUC8N": {
+          "type": "button",
           "settings": {
-            "video_bg": "shopify://files/videos/d9ad6c52-25f8-4db5-bf21-0107710dc1b5.MP4",
-            "object_position": "center-top",
-            "video_link": "",
-            "popup_text": "",
-            "kicker": "",
-            "title": "",
-            "richtext": "",
-            "text_align": "align--bottom-left",
-            "text_color": "text--white",
-            "overlay_opacity": 15,
-            "overlay_color": "#000000",
-            "link_text": "NEW & NOW",
-            "link": "shopify://collections",
-            "button_color": "btn--white",
-            "button_style": "btn--soft"
+            "link_text_1": "new & now",
+            "link_1": "shopify://collections",
+            "button_size_1": "btn--small",
+            "button_style_1": "btn--soft",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
           }
         }
       },
       "block_order": [
-        "video-1"
+        "button_DNUC8N"
       ],
       "settings": {
-        "height": "use_screen_one_half",
-        "brick_gutter": 0,
-        "borders": false,
-        "bg_color": "",
-        "preload_image": false,
+        "height": "use_screen_three_quarters",
+        "color_bg": "palette--light bg--neutral",
+        "video_bg": "shopify://files/videos/d9ad6c52-25f8-4db5-bf21-0107710dc1b5.MP4",
+        "object_position": "right-center",
+        "preload_image": true,
+        "text_align": "align--bottom-left",
+        "text_color": "text--white",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "enable_overlay_text": false,
         "width": "wrapper--none",
         "padding_top": 0,
         "padding_bottom": 0
@@ -454,69 +459,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "section_video_BHrNna": {
-      "type": "section-video",
-      "blocks": {
-        "kicker_LxciCH": {
-          "type": "kicker",
-          "settings": {
-            "kicker": "Introducing",
-            "enable_line": true,
-            "text_size": 4
-          }
-        },
-        "button_DNUC8N": {
-          "type": "button",
-          "settings": {
-            "link_text_1": "new & now",
-            "link_1": "shopify://collections",
-            "button_size_1": "btn--small",
-            "button_style_1": "btn--soft",
-            "button_color_1": "btn--white",
-            "link_text_2": "",
-            "link_2": "",
-            "button_size_2": "btn--long",
-            "button_style_2": "btn-text-thick-line",
-            "button_color_2": "btn--white",
-            "link_text_3": "",
-            "link_3": "",
-            "button_size_3": "btn--long",
-            "button_style_3": "btn-text-thick-line",
-            "button_color_3": "btn--white"
-          }
-        }
-      },
-      "block_order": [
-        "kicker_LxciCH",
-        "button_DNUC8N"
-      ],
-      "settings": {
-        "height": "use_screen_three_quarters",
-        "color_bg": "palette--light bg--neutral",
-        "video_bg": "shopify://files/videos/d9ad6c52-25f8-4db5-bf21-0107710dc1b5.MP4",
-        "object_position": "right-center",
-        "preload_image": true,
-        "text_align": "align--bottom-left",
-        "text_color": "text--white",
-        "overlay_opacity": 15,
-        "overlay_color": "#000",
-        "enable_overlay_text": false,
-        "width": "wrapper--none",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
-    "custom",
+    "section_video_BHrNna",
     "list-collections",
     "tabs",
     "section_look_KixxRr",
     "section_product_f9g7ie",
     "section_hero_PGTEWM",
     "section_recent_products_WctWVc",
-    "icons",
-    "section_video_BHrNna"
+    "icons"
   ]
 }
