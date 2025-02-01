@@ -16,6 +16,7 @@
       "blocks": {
         "announce_text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p><strong>Free Delivery available above 60$</strong></p>",
             "target_url_enabled": false,
