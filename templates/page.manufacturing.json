@@ -270,6 +270,60 @@
         "padding_bottom": 36
       }
     },
+    "section_double_apytF9": {
+      "type": "section-double",
+      "blocks": {
+        "text_mGDcU3": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "",
+            "text": "<p><strong>Innovative Techniques, A Commitment to Excellence</strong></p><p>Innovation is at the heart of our manufacturing process. We continuously explore new techniques and technologies to enhance our production methods and elevate our designs. By integrating modern advancements with traditional craftsmanship, we create garments that are both unique and timeless. Our commitment to excellence drives us to continually refine and perfect our manufacturing process. We believe that every garment we create should be a work of art, embodying the passion and dedication that define Siamo Firenze.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image_PtnbWA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/electronic-components-for-science-project.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_mGDcU3",
+        "image_PtnbWA"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "section_faq_mf9UNp": {
       "type": "section-faq",
       "blocks": {
@@ -322,6 +376,7 @@
     "section_double_wX4UAw",
     "section_double_dFA3bw",
     "section_double_9cAjPy",
+    "section_double_apytF9",
     "section_faq_mf9UNp"
   ]
 }
