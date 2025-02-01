@@ -187,6 +187,21 @@
         "padding_bottom": 36
       }
     },
+    "section_collection_eE8DjP": {
+      "type": "section-collection",
+      "settings": {
+        "title": "Featured Products",
+        "collection": "tops",
+        "grid": 4,
+        "rows": 1,
+        "grid_mobile": "2",
+        "bg": "palette--light bg--neutral",
+        "show_view_all": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "section_collection_slider_wpADw4": {
       "type": "section-collection-slider",
       "settings": {
@@ -201,36 +216,6 @@
         "bg": "palette--light bg--neutral",
         "width": "wrapper",
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "section_custom_content_zwcxaL": {
-      "type": "section-custom-content",
-      "blocks": {
-        "product_nWKD3J": {
-          "type": "product",
-          "settings": {
-            "product": "classic-charm-skort",
-            "kicker": "Shop the look",
-            "badge_string": "",
-            "align_text": "text-center",
-            "text_color": "text--neutral",
-            "bg_color": "#f7f7f7",
-            "bg_accent": "#ffffff"
-          }
-        }
-      },
-      "block_order": [
-        "product_nWKD3J"
-      ],
-      "settings": {
-        "height": "use_screen_three_quarters",
-        "brick_gutter": 0,
-        "borders": false,
-        "bg_color": "",
-        "preload_image": false,
-        "width": "wrapper",
-        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -404,8 +389,8 @@
     "section_video_BHrNna",
     "tabs",
     "list-collections",
+    "section_collection_eE8DjP",
     "section_collection_slider_wpADw4",
-    "section_custom_content_zwcxaL",
     "section_hero_PGTEWM",
     "section_gallery_text_ULQV6P",
     "section_recent_products_WctWVc",
