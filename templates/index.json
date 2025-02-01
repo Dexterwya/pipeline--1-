@@ -522,6 +522,7 @@
         "text_fjefPP",
         "button_kMHVqV"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/4m7gA4qatwWaRD04kfu3fg.jpg",
         "mobile_image": "shopify://shop_images/4m7gA4qatwWaRD04kfu3fg.jpg",
@@ -613,7 +614,7 @@
       ],
       "disabled": true,
       "settings": {
-        "title": "Text columns with images",
+        "title": "RECENTLY VIEWED",
         "bg": "palette--light bg--neutral",
         "align_text": "text-center",
         "scale_image": true,
