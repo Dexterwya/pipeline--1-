@@ -290,21 +290,6 @@
     },
     "section_gallery_text_ULQV6P": {
       "type": "section-gallery-text",
-      "blocks": {
-        "text_N9GXDb": {
-          "type": "text",
-          "settings": {
-            "title": "WORK IT!",
-            "title_size": 6,
-            "text": "<p>Elevate your office attire with our edit</p>",
-            "body_size": 5,
-            "text_align": "text-center"
-          }
-        }
-      },
-      "block_order": [
-        "text_N9GXDb"
-      ],
       "settings": {
         "bg": "palette--light bg--neutral",
         "grid_large": 1,
@@ -326,6 +311,33 @@
         "grid_medium": 3,
         "grid_small": 1.2,
         "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_gallery_text_L7gix3": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "text_VLqmrY": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "title_size": 3,
+            "text": "<p><strong>CREATE YOUR SIAMO FIRENZE LOOK</strong></p><p>The <strong>Siamo Firenze</strong> collection is designed to empower you to express your unique style with effortless elegance. From timeless wardrobe essentials to trend-driven statement pieces, our collection offers a seamless blend of sophistication and modernity.</p><p>Our signature essentials are crafted from premium fabrics, featuring sleek bodysuits, versatile crop tops, and tailored staples that form the foundation of every <strong>Siamo Firenze</strong> wardrobe. With new styles arriving in our boutiques and online every week, we bring you the latest in fashion, from refined dresses and chic separates to contemporary suiting and more.</p><p>Designed in Florence and meticulously crafted in Beirut, each piece is created with a focus on quality, versatility, and individuality—ensuring your style is as distinctive as you are.</p>",
+            "body_size": 4,
+            "text_align": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "text_VLqmrY"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral",
+        "grid_large": 1,
+        "grid_medium": 1,
+        "grid_mobile": 1,
+        "width": "wrapper--narrow",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -394,6 +406,7 @@
     "section_hero_PGTEWM",
     "section_gallery_text_ULQV6P",
     "section_recent_products_WctWVc",
+    "section_gallery_text_L7gix3",
     "icons"
   ]
 }
