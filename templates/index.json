@@ -387,6 +387,7 @@
         },
         "quantity_iXtVqQ": {
           "type": "quantity",
+          "disabled": true,
           "settings": {
             "show_quantity": true,
             "padding_bottom": 20
@@ -413,6 +414,7 @@
         },
         "description_katVRg": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "style": "none",
             "enable_description": false,
@@ -456,7 +458,7 @@
         "image_spacing": 10,
         "align": "left",
         "bg": "palette--light bg--neutral",
-        "mobile_layout": "carousel",
+        "mobile_layout": "slideshow",
         "enable_video_looping": true,
         "zoom_enable": true,
         "alt_text_enable": true,
