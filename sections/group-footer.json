@@ -16,6 +16,7 @@
       "blocks": {
         "linklist-1": {
           "type": "linklist",
+          "disabled": true,
           "settings": {
             "linklist": "main-menu",
             "title": "",
