@@ -24,7 +24,7 @@
         "heading-block": {
           "type": "heading",
           "settings": {
-            "title": "<p>FAQ</p>",
+            "title": "FAQ",
             "text_size": 10
           }
         }
@@ -34,7 +34,8 @@
         "heading-block"
       ],
       "settings": {
-        "height": "use_screen_one_fifth",
+        "image": "shopify://shop_images/5.png",
+        "height": "use_image",
         "overlay_opacity": 50,
         "overlay_color": "#000000",
         "enable_overlay_text": false,
