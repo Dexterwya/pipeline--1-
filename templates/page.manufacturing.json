@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "kicker": "",
         "kicker_size": 3,
@@ -25,9 +26,147 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_gallery_text_frUTDE": {
+      "type": "section-gallery-text",
+      "blocks": {
+        "text_Vf4P9D": {
+          "type": "text",
+          "settings": {
+            "title": "MANUFACTURING",
+            "title_size": 3,
+            "text": "",
+            "body_size": 4,
+            "text_align": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "text_Vf4P9D"
+      ],
+      "settings": {
+        "bg": "palette--light bg--neutral",
+        "grid_large": 1,
+        "grid_medium": 1,
+        "grid_mobile": 1,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_slideshow_bWkaRr": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_VeGVGW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/2B6E2CC5-58EE-4806-95DF-C79FD9531FED.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.</p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "image_PYB4bU": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.</p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
+        "image_fe9RXJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Wk29_Portrait_598px_by_897pxTranseasonal_4.jpg",
+            "overlay_opacity": 0,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "Introducing",
+            "title": "Image slideshow",
+            "richtext": "<p>Tell your brand's story through images.</p>",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "View products",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "image_VeGVGW",
+        "image_PYB4bU",
+        "image_fe9RXJ"
+      ],
+      "settings": {
+        "autoplay": false,
+        "autoplay_speed": 3,
+        "preload_first_image": false,
+        "height": "use_screen_two_thirds",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_pK6L7A": {
+      "type": "section-double",
+      "blocks": {
+        "text_fCTMfa": {
+          "type": "text",
+          "settings": {
+            "kicker": "Image with text",
+            "title": "",
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_fCTMfa"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_gallery_text_frUTDE",
+    "section_slideshow_bWkaRr",
+    "section_double_pK6L7A"
   ]
 }
