@@ -134,7 +134,7 @@
             "enable_image": false,
             "shape_class": "",
             "title": "Easy Returns and Exchanges",
-            "text": "<p>Your satisfaction is our top priority. If for any reason you are not completely satisfied with your purchase, we offer a hassle-free return and exchange policy. Simply follow our easy and straightforward process:</p><ul><li><strong>1.Initiate a Return or Exchange</strong>: Contact our customer support team within 30 days of receiving your order to initiate a return or exchange. Provide your order number and the reason for your return or exchange.</li></ul>",
+            "text": "<p>Your satisfaction is our top priority. If for any reason you are not completely satisfied with your purchase, we offer a hassle-free return and exchange policy. Simply follow our easy and straightforward process:</p><p><strong>1.Initiate a Return or Exchange</strong>: Contact our customer support team within 30 days of receiving your order to initiate a return or exchange. Provide your order number and the reason for your return or exchange.</p>",
             "button_label": "",
             "button_link": "",
             "button_color": "btn--neutral",
