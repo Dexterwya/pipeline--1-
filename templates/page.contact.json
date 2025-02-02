@@ -156,67 +156,12 @@
         "padding_top": 36,
         "padding_bottom": 90
       }
-    },
-    "icons": {
-      "type": "section-icons",
-      "blocks": {
-        "icons-0": {
-          "type": "icon_block",
-          "settings": {
-            "icon_name": "icon-basket-return",
-            "icon_color": "#aaaaaa",
-            "title": "Free returns",
-            "text": "<p>Returns within 30 days receive a full refund.</p>",
-            "link_text": "",
-            "link_url": ""
-          }
-        },
-        "icons-1": {
-          "type": "icon_block",
-          "settings": {
-            "icon_name": "icon-shipment-world",
-            "icon_color": "#aaaaaa",
-            "title": "Worldwide shipping",
-            "text": "<p>Ship anywhere, rates available at checkout.</p>",
-            "link_text": "",
-            "link_url": ""
-          }
-        },
-        "icons-2": {
-          "type": "icon_block",
-          "settings": {
-            "icon_name": "icon-phone",
-            "icon_color": "#aaaaaa",
-            "title": "24/7 support",
-            "text": "<p>Call us anytime at 1(800) 555-1234.</p>",
-            "link_text": "",
-            "link_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "icons-0",
-        "icons-1",
-        "icons-2"
-      ],
-      "settings": {
-        "title": "",
-        "bg": "palette--light bg--accent",
-        "icons_size": 30,
-        "icon_alignment": "icon--top",
-        "layout": "grid--stacked",
-        "align_text": "text-center",
-        "width": "wrapper",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "hero",
     "main",
     "contact",
-    "faq",
-    "icons"
+    "faq"
   ]
 }
