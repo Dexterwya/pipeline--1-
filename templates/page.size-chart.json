@@ -60,6 +60,7 @@
     "section_image_3xERGJ": {
       "type": "section-image",
       "settings": {
+        "image": "shopify://shop_images/Screen_Shot_2025-02-02_at_12.40.38_PM.png",
         "max_width": 100,
         "x_align": "center",
         "color_bg": "palette--light bg--neutral",
