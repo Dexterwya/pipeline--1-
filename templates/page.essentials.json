@@ -29,22 +29,11 @@
     },
     "section_hero_jXtQU8": {
       "type": "section-hero",
-      "blocks": {
-        "heading_biKEJw": {
-          "type": "heading",
-          "settings": {
-            "title": "Gain Expert Insights with Our Blog Magazine.",
-            "text_size": 8
-          }
-        }
-      },
-      "block_order": [
-        "heading_biKEJw"
-      ],
       "settings": {
+        "image": "shopify://shop_images/siamo_firenze_3.png",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
         "content_width": 2000,
@@ -55,10 +44,336 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "section_double_fPnA8g": {
+      "type": "section-double",
+      "blocks": {
+        "text_WQWM9r": {
+          "type": "text",
+          "settings": {
+            "kicker": "The Foundation of Timeless Elegance",
+            "title": "",
+            "text": "<p>At Siamo Firenze, we believe that a well-curated wardrobe starts with the essentials. These are the pieces that form the backbone of your style, providing versatility, comfort, and timeless elegance. Our Essentials collection is designed to offer you high-quality, beautifully crafted garments that can be effortlessly mixed and matched to create a variety of looks.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image_fM3aDU": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "Shop Now",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_WQWM9r",
+        "image_fM3aDU"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_bHdfyC": {
+      "type": "section-double",
+      "blocks": {
+        "text_gVNNqw": {
+          "type": "text",
+          "settings": {
+            "kicker": "Key Pieces for Every WardrobeThe Perfect White Shirt",
+            "title": "",
+            "text": "<p>A crisp white shirt is a must-have for any wardrobe. Our version is tailored to perfection, with a flattering fit and attention to detail that ensures it looks impeccable whether worn alone or layered under a blazer. Made from premium cotton, it’s soft, breathable, and perfect for any occasion.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_gVNNqw"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_GpDKqw": {
+      "type": "section-double",
+      "blocks": {
+        "text_6HqYkc": {
+          "type": "text",
+          "settings": {
+            "kicker": "The Classic Little Black Dress",
+            "title": "",
+            "text": "<p>The little black dress is an icon of fashion, and our interpretation is both modern and timeless. Designed to enhance your natural elegance, it features clean lines, a flattering silhouette, and subtle details that make it stand out. It’s versatile enough to take you from a day at the office to a night out on the town.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_6HqYkc"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_reHy6f": {
+      "type": "section-double",
+      "blocks": {
+        "text_9bVTkY": {
+          "type": "text",
+          "settings": {
+            "kicker": "The Versatile Blazer",
+            "title": "",
+            "text": "<p>A well-tailored blazer is the epitome of sophistication. Our blazer is crafted with precision, featuring a classic cut that complements any outfit. Made from high-quality fabrics, it’s perfect for layering over dresses, shirts, or even casual tops, adding a touch of elegance to any look.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_9bVTkY"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_BAUGf8": {
+      "type": "section-double",
+      "blocks": {
+        "text_FUy7UJ": {
+          "type": "text",
+          "settings": {
+            "kicker": "Quality and Craftsmanship",
+            "title": "",
+            "text": "<p>Every piece in our Essentials collection is crafted with the same commitment to quality and craftsmanship that defines Siamo Firenze. We use the finest materials and employ skilled artisans to ensure that each garment meets our exacting standards. Our attention to detail ensures that these essentials will become lasting staples in your wardrobe.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_FUy7UJ"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_mHibYU": {
+      "type": "section-double",
+      "blocks": {
+        "text_ER7zgg": {
+          "type": "text",
+          "settings": {
+            "kicker": "Column",
+            "title": "",
+            "text": "<p>Our Essentials collection is not only designed to offer timeless style but also to reflect our commitment to sustainability and ethical practices. We source eco-friendly materials and employ manufacturing processes that minimize waste and reduce our environmental impact. By choosing our Essentials, you are making a conscious choice to support responsible fashion.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_ER7zgg"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_8czXmc": {
+      "type": "section-double",
+      "blocks": {
+        "text_W3r9q7": {
+          "type": "text",
+          "settings": {
+            "kicker": "Styling Tips",
+            "title": "",
+            "text": "<p>Our Essentials are designed to be versatile and easy to style. Here are a few tips to help you make the most of these wardrobe staples:</p><ul><li><strong>Mix and Match</strong>: Pair the perfect white shirt with jeans for a casual look or with a blazer and trousers for a more polished ensemble.</li><li><strong>Layering</strong>: Use the trench coat and knit sweater to create layered looks that add depth and interest to your outfits.</li><li><strong>Accessorize</strong>: Elevate your little black dress with statement jewelry and heels for an evening out, or keep it simple with flats and a scarf for a daytime look.</li></ul>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_W3r9q7"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_double_jkyttp": {
+      "type": "section-double",
+      "blocks": {
+        "text_pfQfjh": {
+          "type": "text",
+          "settings": {
+            "kicker": "Explore the Essentials",
+            "title": "",
+            "text": "<p>Discover the foundation of timeless elegance with our Essentials collection. Each piece is designed to offer versatility, quality, and style, providing you with the perfect building blocks for a sophisticated wardrobe. Explore our collection and invest in pieces that will stand the test of time.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image_rVqUwW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9050.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "Shop Now",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        }
+      },
+      "block_order": [
+        "text_pfQfjh",
+        "image_rVqUwW"
+      ],
+      "settings": {
+        "height": "use_screen_one_half",
+        "brick_gutter": 0,
+        "borders": false,
+        "bg_color": "",
+        "preload_image": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "section_hero_jXtQU8"
+    "section_hero_jXtQU8",
+    "section_double_fPnA8g",
+    "section_double_bHdfyC",
+    "section_double_GpDKqw",
+    "section_double_reHy6f",
+    "section_double_BAUGf8",
+    "section_double_mHibYU",
+    "section_double_8czXmc",
+    "section_double_jkyttp"
   ]
 }
