@@ -41,10 +41,11 @@
       "block_order": [
         "heading_biKEJw"
       ],
+      "disabled": true,
       "settings": {
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
         "content_width": 2000,
@@ -55,10 +56,22 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "section_image_3xERGJ": {
+      "type": "section-image",
+      "settings": {
+        "max_width": 100,
+        "x_align": "center",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "section_hero_jXtQU8"
+    "section_hero_jXtQU8",
+    "section_image_3xERGJ"
   ]
 }
