@@ -62,7 +62,7 @@
       "settings": {
         "image": "shopify://shop_images/Screen_Shot_2025-02-02_at_12.40.38_PM.png",
         "mobile_image": "shopify://shop_images/Screen_Shot_2025-02-02_at_12.40.38_PM.png",
-        "max_width": 77,
+        "max_width": 45,
         "x_align": "center",
         "color_bg": "palette--light bg--neutral",
         "width": "wrapper",
