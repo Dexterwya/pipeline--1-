@@ -154,7 +154,7 @@
         "bg": "palette--light bg--neutral",
         "width": "wrapper--narrow",
         "padding_top": 36,
-        "padding_bottom": 90
+        "padding_bottom": 24
       }
     }
   },
