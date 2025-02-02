@@ -42,9 +42,10 @@
         "heading_biKEJw"
       ],
       "settings": {
+        "image": "shopify://shop_images/Untitled_design_3.png",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
         "content_width": 2000,
