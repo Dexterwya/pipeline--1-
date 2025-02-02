@@ -25,9 +25,21 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "section_newsletter_khaFdX": {
+      "type": "section-newsletter",
+      "settings": {
+        "title": "Newsletter",
+        "richtext": "<p>Join to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "section_newsletter_khaFdX"
   ]
 }
