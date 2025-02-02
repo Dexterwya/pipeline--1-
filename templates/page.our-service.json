@@ -44,10 +44,185 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "section_columns_iUtArr": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_QGxrGK": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "Personalized Shopping Experience",
+            "text": "<p>At Siamo Firenze, we believe that every customer deserves a personalized shopping experience. Our dedicated team is here to assist you in finding the perfect pieces that match your style and preferences. Whether you need help with sizing, styling advice, or selecting the right ensemble for a special occasion, we are committed to providing you with exceptional service tailored to your individual needs.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_ExWYFT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "Custom Tailoring",
+            "text": "<p>We understand that every woman is unique, and so are her fashion needs. Our custom tailoring service ensures that your Siamo Firenze garments fit you perfectly. Our skilled artisans will work closely with you to make precise adjustments, creating bespoke pieces that complement your body shape and enhance your natural beauty.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_m7bify": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "Exclusive Consultations",
+            "text": "<p>Enjoy the luxury of an exclusive one-on-one consultation with our fashion experts. Whether you’re refreshing your wardrobe or preparing for a special event, our consultants will guide you through our collections, helping you choose pieces that reflect your personal style and meet your fashion goals. Book an appointment for an in-depth consultation and experience the elegance and sophistication of Siamo Firenze firsthand.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_XMfVt6": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "Fast and Secure Shipping",
+            "text": "<p>We are committed to ensuring that your Siamo Firenze garments arrive safely and promptly. We offer fast and secure shipping options to deliver your orders to your doorstep with care. Track your shipment in real-time and enjoy the convenience of knowing exactly when your new fashion pieces will arrive.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_JwgXWc": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "Fast and Secure Shipping",
+            "text": "<p>We are committed to ensuring that your Siamo Firenze garments arrive safely and promptly. We offer fast and secure shipping options to deliver your orders to your doorstep with care. Track your shipment in real-time and enjoy the convenience of knowing exactly when your new fashion pieces will arrive.</p><p></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_ErdDtC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "Easy Returns and Exchanges",
+            "text": "<p>Your satisfaction is our top priority. If for any reason you are not completely satisfied with your purchase, we offer a hassle-free return and exchange policy. Simply follow our easy and straightforward process:</p><ul><li><strong>1.Initiate a Return or Exchange</strong>: Contact our customer support team within 30 days of receiving your order to initiate a return or exchange. Provide your order number and the reason for your return or exchange.</li></ul>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_LprYwr": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "",
+            "text": "<p><strong>2.Receive Return Instructions</strong>: Our team will provide you with detailed instructions on how to return your item. We will also provide a prepaid return shipping label for your convenience.: Carefully pack the item you wish to return in its original packaging, including all tags and accessories. Ensure that the item is in its original, unworn condition.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_LeRQzp": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "",
+            "text": "<p><strong>4. Ship the Package</strong>: Attach the prepaid return shipping label to your package and drop it off at your nearest shipping location. Please retain the receipt for tracking purposes.</p><p><strong>5.Processing Your Return or Exchange</strong>:Once we receive your returned item, we will inspect it and process your return or exchange within 5-7 business days. If you opted for a refund, it will be issued to your original payment method. For exchanges, we will ship the new item to you promptly.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_mfL3Eh": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "",
+            "text": "<h3>Contact Us</h3><p><strong>Email</strong>: info<a>@siamofirenze.com</a></p><p><strong>Phone</strong>: +961 81 909 710</p><p><strong>Live Chat</strong>: Available on our Instagram Page @siamofirenze</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_QGxrGK",
+        "text_block_ExWYFT",
+        "text_block_m7bify",
+        "text_block_XMfVt6",
+        "text_block_JwgXWc",
+        "text_block_ErdDtC",
+        "text_block_LprYwr",
+        "text_block_LeRQzp",
+        "text_block_mfL3Eh"
+      ],
+      "settings": {
+        "title": "Text columns with images",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "wh_ratio": 1,
+        "grid_large": 3,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "progress_bar_mobile": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "section_hero_mpre8Q"
+    "section_hero_mpre8Q",
+    "section_columns_iUtArr"
   ]
 }
