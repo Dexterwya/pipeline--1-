@@ -31,7 +31,8 @@
       "type": "section-image",
       "settings": {
         "image": "shopify://shop_images/Screen_Shot_2025-02-02_at_12.40.38_PM.png",
-        "max_width": 100,
+        "mobile_image": "shopify://shop_images/Screen_Shot_2025-02-02_at_12.40.38_PM.png",
+        "max_width": 63,
         "x_align": "center",
         "color_bg": "palette--light bg--neutral",
         "width": "wrapper",
