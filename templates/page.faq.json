@@ -81,14 +81,7 @@
           "type": "text",
           "settings": {
             "title": "Do you accept online payments?",
-            "content": "<p>Yes, we accept online payments. All payment processing and vital customer information is quick, easy, and secure.<br/></p><p>Learn more about our store's safe checkout experience (powered by Shopify) <a href=\"https://www.shopify.com/legal/terms#DataProtection\" target=\"_blank\" title=\"https://www.shopify.com/legal/terms#DataProtection\">here</a>.</p>"
-          }
-        },
-        "accordion_block_1_3": {
-          "type": "text",
-          "settings": {
-            "title": "Where can I learn more about the payment and processing on your store?",
-            "content": "<p>For more insight, you may also want to read Shopify’s Terms of Service <a href=\"https://www.shopify.com/legal/terms\" target=\"_blank\" title=\"https://www.shopify.com/legal/terms\">here</a> or Privacy Statement <a href=\"https://www.shopify.com/legal/privacy\" target=\"_blank\" title=\"https://www.shopify.com/legal/privacy\">here</a>.</p>"
+            "content": "<p>Yes, we accept online payments. All payment processing and vital customer information is quick, easy, and secure.</p>"
           }
         },
         "accordion_block_1_4": {
@@ -102,7 +95,6 @@
       "block_order": [
         "accordion_block_1_1",
         "accordion_block_1_2",
-        "accordion_block_1_3",
         "accordion_block_1_4"
       ],
       "settings": {
@@ -132,7 +124,7 @@
           "type": "text",
           "settings": {
             "title": "How much does it cost?",
-            "content": "<p>Shipping rates can vary depending on your region and are calculated at checkout.<br/><br/>Here are the full details of our <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">Shipping Policy</a>.</p>"
+            "content": "<p>Shipping rates can vary depending on your region and are calculated at checkout.</p>"
           }
         },
         "accordion_block_2_2": {
@@ -153,7 +145,7 @@
           "type": "text",
           "settings": {
             "title": "Do you ship to my area?",
-            "content": "<p>A full list of all of our shipping areas can be found <a href=\"/policies/shipping-policy\" title=\"Shipping Policy\">here</a>.<br/><br/>If your country or region is not mentioned, please feel free to reach out to see if we can work out the details.</p>"
+            "content": "<p>A full list of all of our shipping areas can be found in location area.<br/><br/>If your country or region is not mentioned, please feel free to reach out to see if we can work out the details.</p>"
           }
         }
       },
