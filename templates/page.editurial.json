@@ -56,10 +56,99 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "section_columns_8RD4Kr": {
+      "type": "section-columns",
+      "blocks": {
+        "text_block_34XbxC": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "The Essence of Elegance: A Journey Through Siamo Firenze",
+            "text": "<p>In the world of fashion, where trends come and go, Siamo Firenze stands as a beacon of timeless elegance and sophisticated style. Our story is one of passion, heritage, and a relentless pursuit of excellence, crafted meticulously in the ateliers of Florence and brought to life in Beirut.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_mTdymL": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "A Fusion of Cultures",
+            "text": "<p>Siamo Firenze is more than a brand; it is a confluence of cultures and traditions. Florence, with its rich history of art and craftsmanship, inspires our designs, while Beirut, a city renowned for its vibrant culture and skilled artisans, brings these designs to fruition. This unique blend results in clothing that is both contemporary and deeply rooted in tradition.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        },
+        "text_block_ygqAm4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "shape_class": "",
+            "title": "Crafting Stories, One Stitch at a Time",
+            "text": "<p>Every piece from Siamo Firenze tells a story. From the initial sketch to the final stitch, our garments are crafted with a narrative of beauty, quality, and artistry. Our designers draw inspiration from the architectural marvels and artistic heritage of Florence, translating these elements into modern, wearable art</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn--soft",
+            "enable_video": false,
+            "video_link": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "video_button_color": "text--white"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_34XbxC",
+        "text_block_mTdymL",
+        "text_block_ygqAm4"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": true,
+        "wh_ratio": 1,
+        "grid_large": 3,
+        "grid_medium": 3,
+        "grid_mobile": 1.2,
+        "progress_bar_mobile": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_recent_products_GmnFjt": {
+      "type": "section-recent-products",
+      "settings": {
+        "bg": "palette--light bg--neutral",
+        "product_recently_heading": "Recently viewed",
+        "product_recently_limit": 6,
+        "product_recently_minimum": 3,
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_small": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "section_hero_jXtQU8"
+    "section_hero_jXtQU8",
+    "section_columns_8RD4Kr",
+    "section_recent_products_GmnFjt"
   ]
 }
