@@ -31,6 +31,7 @@
       "type": "section-hero",
       "settings": {
         "image": "shopify://shop_images/siamo_firenze_3.png",
+        "mobile_image": "shopify://shop_images/des.png",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -70,7 +71,7 @@
           "disabled": true,
           "settings": {
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
@@ -334,7 +335,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG_9050.jpg",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
