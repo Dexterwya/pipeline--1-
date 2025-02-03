@@ -248,7 +248,7 @@
           "type": "button",
           "settings": {
             "link_text_1": "View product",
-            "link_1": "shopify://products/untitled-jan17_13-22",
+            "link_1": "shopify://products/untitled-nov19_16-18",
             "button_size_1": "btn--long",
             "button_style_1": "btn--outline",
             "button_color_1": "btn--white",
@@ -272,8 +272,8 @@
         "button_kMHVqV"
       ],
       "settings": {
-        "image": "shopify://shop_images/4m7gA4qatwWaRD04kfu3fg.jpg",
-        "mobile_image": "shopify://shop_images/4m7gA4qatwWaRD04kfu3fg.jpg",
+        "image": "shopify://shop_images/IMG-8646.jpg",
+        "mobile_image": "shopify://shop_images/IMG-8646.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
