@@ -34,9 +34,9 @@
         "heading-block"
       ],
       "settings": {
-        "image": "shopify://shop_images/5.png",
+        "image": "shopify://shop_images/siamo_firenze_7909b077-c77f-4ce3-8389-821b473484e6.png",
         "mobile_image": "shopify://shop_images/des.png",
-        "height": "use_image",
+        "height": "use_screen_three_quarters",
         "overlay_opacity": 0,
         "overlay_color": "#000000",
         "enable_overlay_text": false,
