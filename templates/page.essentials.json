@@ -31,9 +31,9 @@
       "type": "section-hero",
       "settings": {
         "image": "shopify://shop_images/siamo_firenze_3.png",
-        "mobile_image": "shopify://shop_images/des.png",
+        "mobile_image": "shopify://shop_images/kueA_N-cqXehh5f7_-QwIQ.png",
         "height": "use_screen_two_thirds",
-        "overlay_opacity": 15,
+        "overlay_opacity": 0,
         "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
@@ -108,7 +108,7 @@
           "settings": {
             "image": "shopify://shop_images/IMG-6354.webp",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
@@ -179,7 +179,7 @@
           "settings": {
             "image": "shopify://shop_images/7C1DF224-9EB1-4483-A1B6-69CBCBAFB8B1.jpg",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
@@ -216,7 +216,7 @@
           "settings": {
             "image": "shopify://shop_images/A9612C87-EF44-4918-9987-285011B302DF.png",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
@@ -287,7 +287,7 @@
           "settings": {
             "image": "shopify://shop_images/person-using-sewing-machine.jpg",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
@@ -324,7 +324,7 @@
           "settings": {
             "image": "shopify://shop_images/rolling-hills-on-farm-land.jpg",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
@@ -395,7 +395,7 @@
           "settings": {
             "image": "shopify://shop_images/model-wearing-a-gray-hat-and-leather-jacket.jpg",
             "overlay_opacity": 15,
-            "overlay_color": "#000",
+            "overlay_color": "#000000",
             "enable_overlay_text": false,
             "kicker": "",
             "title": "",
