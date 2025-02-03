@@ -58,7 +58,7 @@
           "settings": {
             "title": "Stay in touch.",
             "text_size": 8,
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
