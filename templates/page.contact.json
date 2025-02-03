@@ -102,6 +102,13 @@
     "faq": {
       "type": "section-faq",
       "blocks": {
+        "text_TYzBN9": {
+          "type": "text",
+          "settings": {
+            "title": "Phone support 24/7",
+            "content": "<p>contact us anytime +961 81 909 710</p>"
+          }
+        },
         "faq-0": {
           "type": "text",
           "settings": {
@@ -139,6 +146,7 @@
         }
       },
       "block_order": [
+        "text_TYzBN9",
         "faq-0",
         "faq-1",
         "faq-2",
