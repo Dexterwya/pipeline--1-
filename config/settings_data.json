@@ -65,8 +65,8 @@
     "product_grid_show_rating": false,
     "product_grid_show_rating_count": false,
     "cart_style": "drawer",
-    "custom_social_icon_1": "shopify://shop_images/black-instagram-social-media-outline-logo-icon-701751695137034d7zndmect4.png",
-    "custom_social_icon_2": "shopify://shop_images/black-instagram-social-media-outline-logo-icon-701751695137034d7zndmect4.png",
+    "social_facebook_link": "https://www.facebook.com/florence.we.are/",
+    "social_instagram_link": "https://www.instagram.com/siamofirenze/",
     "custom_social_icon_3": "shopify://shop_images/black-instagram-social-media-outline-logo-icon-701751695137034d7zndmect4.png",
     "content_for_index": []
   },
