@@ -68,8 +68,8 @@
         },
         "image_fM3aDU": {
           "type": "image",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/C12AEE05-2E68-4E9C-BB55-FCCD003798D2.jpg",
             "overlay_opacity": 15,
             "overlay_color": "#000000",
             "enable_overlay_text": false,
@@ -78,7 +78,7 @@
             "richtext": "",
             "text_align": "align--middle-center",
             "text_color": "text--white",
-            "link_text": "Shop Now",
+            "link_text": "",
             "link": "",
             "button_color": "btn--white",
             "button_style": "btn"
@@ -96,13 +96,31 @@
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0
       }
     },
     "section_double_bHdfyC": {
       "type": "section-double",
       "blocks": {
+        "image_ddkrL4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG-6354.webp",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
         "text_gVNNqw": {
           "type": "text",
           "settings": {
@@ -122,6 +140,7 @@
         }
       },
       "block_order": [
+        "image_ddkrL4",
         "text_gVNNqw"
       ],
       "settings": {
@@ -131,7 +150,7 @@
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 28,
         "padding_bottom": 0
       }
     },
@@ -154,10 +173,29 @@
             "text_color": "text--neutral",
             "bg_color": ""
           }
+        },
+        "image_HCndkr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/7C1DF224-9EB1-4483-A1B6-69CBCBAFB8B1.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
         }
       },
       "block_order": [
-        "text_6HqYkc"
+        "text_6HqYkc",
+        "image_HCndkr"
       ],
       "settings": {
         "height": "use_screen_one_half",
@@ -166,13 +204,31 @@
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0
       }
     },
     "section_double_reHy6f": {
       "type": "section-double",
       "blocks": {
+        "image_qeyRmG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/A9612C87-EF44-4918-9987-285011B302DF.png",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
         "text_9bVTkY": {
           "type": "text",
           "settings": {
@@ -192,6 +248,7 @@
         }
       },
       "block_order": [
+        "image_qeyRmG",
         "text_9bVTkY"
       ],
       "settings": {
@@ -201,7 +258,7 @@
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0
       }
     },
@@ -224,10 +281,29 @@
             "text_color": "text--neutral",
             "bg_color": ""
           }
+        },
+        "image_WhfQtj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/person-using-sewing-machine.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
         }
       },
       "block_order": [
-        "text_FUy7UJ"
+        "text_FUy7UJ",
+        "image_WhfQtj"
       ],
       "settings": {
         "height": "use_screen_one_half",
@@ -236,13 +312,31 @@
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0
       }
     },
     "section_double_mHibYU": {
       "type": "section-double",
       "blocks": {
+        "image_HkR9ee": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/rolling-hills-on-farm-land.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
+        },
         "text_ER7zgg": {
           "type": "text",
           "settings": {
@@ -262,6 +356,7 @@
         }
       },
       "block_order": [
+        "image_HkR9ee",
         "text_ER7zgg"
       ],
       "settings": {
@@ -271,7 +366,7 @@
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0
       }
     },
@@ -294,10 +389,29 @@
             "text_color": "text--neutral",
             "bg_color": ""
           }
+        },
+        "image_mWAMHm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/model-wearing-a-gray-hat-and-leather-jacket.jpg",
+            "overlay_opacity": 15,
+            "overlay_color": "#000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn"
+          }
         }
       },
       "block_order": [
-        "text_W3r9q7"
+        "text_W3r9q7",
+        "image_mWAMHm"
       ],
       "settings": {
         "height": "use_screen_one_half",
@@ -306,30 +420,13 @@
         "bg_color": "",
         "preload_image": false,
         "width": "wrapper",
-        "padding_top": 0,
+        "padding_top": 30,
         "padding_bottom": 0
       }
     },
     "section_double_jkyttp": {
       "type": "section-double",
       "blocks": {
-        "text_pfQfjh": {
-          "type": "text",
-          "settings": {
-            "kicker": "Explore the Essentials",
-            "title": "",
-            "text": "<p>Discover the foundation of timeless elegance with our Essentials collection. Each piece is designed to offer versatility, quality, and style, providing you with the perfect building blocks for a sophisticated wardrobe. Explore our collection and invest in pieces that will stand the test of time.</p>",
-            "font_size": 5,
-            "text_columns": 1,
-            "align_text": "text-left",
-            "button_text": "",
-            "button_url": "",
-            "button_color": "btn--neutral",
-            "button_style": "btn-text-thick-line",
-            "text_color": "text--neutral",
-            "bg_color": ""
-          }
-        },
         "image_rVqUwW": {
           "type": "image",
           "settings": {
@@ -347,11 +444,28 @@
             "button_color": "btn--white",
             "button_style": "btn"
           }
+        },
+        "text_pfQfjh": {
+          "type": "text",
+          "settings": {
+            "kicker": "Explore the Essentials",
+            "title": "",
+            "text": "<p>Discover the foundation of timeless elegance with our Essentials collection. Each piece is designed to offer versatility, quality, and style, providing you with the perfect building blocks for a sophisticated wardrobe. Explore our collection and invest in pieces that will stand the test of time.</p>",
+            "font_size": 5,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "",
+            "button_color": "btn--neutral",
+            "button_style": "btn-text-thick-line",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
         }
       },
       "block_order": [
-        "text_pfQfjh",
-        "image_rVqUwW"
+        "image_rVqUwW",
+        "text_pfQfjh"
       ],
       "settings": {
         "height": "use_screen_one_half",
