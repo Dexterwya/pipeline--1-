@@ -52,13 +52,22 @@
             "title": "",
             "accordion_default": ""
           }
+        },
+        "social_37L9Xa": {
+          "type": "social",
+          "settings": {
+            "title": "Stay in touch.",
+            "text_size": 8,
+            "enable_follow_on_shop": true
+          }
         }
       },
       "block_order": [
         "newsletter",
         "linklist-1",
         "linklist-2",
-        "linklist_MC8UKM"
+        "linklist_MC8UKM",
+        "social_37L9Xa"
       ],
       "settings": {
         "menu_position": "left",
