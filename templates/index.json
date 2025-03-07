@@ -16,7 +16,7 @@
           "type": "button",
           "settings": {
             "link_text_1": "new & now",
-            "link_1": "shopify://collections/all",
+            "link_1": "shopify://collections/new-in",
             "button_size_1": "btn--large",
             "button_style_1": "btn--soft",
             "button_color_1": "btn--white",
@@ -39,7 +39,7 @@
       "settings": {
         "height": "use_screen_three_quarters",
         "color_bg": "palette--light bg--neutral",
-        "video_bg": "shopify://files/videos/d9ad6c52-25f8-4db5-bf21-0107710dc1b5.MP4",
+        "video_bg": "shopify://files/videos/202502052151.mp4",
         "object_position": "right-center",
         "preload_image": true,
         "text_align": "align--bottom-left",
@@ -84,25 +84,9 @@
       "blocks": {
         "list-collections-0": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "arrivals",
-            "overlay_color": "#000000",
-            "overlay_opacity": 15,
-            "top_text": "",
-            "top_text_disabled": false,
-            "title": "",
-            "title_disabled": false,
-            "bottom_text": "",
-            "bottom_text_disabled": false,
-            "collection_url": "",
-            "text_color": "text--white"
-          }
-        },
-        "list-collections-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "dresses",
+            "mobile_image": "shopify://shop_images/EF7A5D0F-54C4-4406-A5A1-BF3EF69CE538.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
@@ -131,6 +115,23 @@
             "text_color": "text--white"
           }
         },
+        "collection_BDnEJL": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "sets",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "top_text": "",
+            "top_text_disabled": false,
+            "title": "",
+            "title_disabled": false,
+            "bottom_text": "",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        },
         "list-collections-4": {
           "type": "collection",
           "settings": {
@@ -147,10 +148,10 @@
             "text_color": "text--white"
           }
         },
-        "collection_BDnEJL": {
+        "list-collections-1": {
           "type": "collection",
           "settings": {
-            "collection": "sets",
+            "collection": "dresses",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
@@ -166,10 +167,10 @@
       },
       "block_order": [
         "list-collections-0",
-        "list-collections-1",
         "list-collections-3",
+        "collection_BDnEJL",
         "list-collections-4",
-        "collection_BDnEJL"
+        "list-collections-1"
       ],
       "settings": {
         "title": "",
