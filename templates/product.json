@@ -100,7 +100,7 @@
         "upsell": {
           "type": "upsell",
           "settings": {
-            "title": "Buy it with",
+            "title": "Buy it with{{ block.settings.product.metafields[\"shopify--discovery--product_recommendation\"].related_products_display.value }}",
             "upsell_type": "product_single",
             "product": "haiden-maxi-skirt",
             "upsell_product_list": [],
