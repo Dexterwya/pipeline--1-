@@ -99,11 +99,10 @@
         },
         "upsell": {
           "type": "upsell",
-          "disabled": true,
           "settings": {
             "title": "Buy it with",
             "upsell_type": "product_single",
-            "product": "",
+            "product": "haiden-maxi-skirt",
             "upsell_product_list": [],
             "upsell_list_limit": 1,
             "padding_bottom": 20
@@ -179,6 +178,7 @@
     },
     "section_image_ga4HTB": {
       "type": "section-image",
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_9855.jpg",
         "mobile_image": "shopify://shop_images/IMG_9855.jpg",
