@@ -99,7 +99,6 @@
         },
         "upsell": {
           "type": "upsell",
-          "disabled": true,
           "settings": {
             "title": "Buy it with{{ block.settings.product.metafields[\"shopify--discovery--product_recommendation\"].related_products_display.value }}",
             "upsell_type": "product_single",
