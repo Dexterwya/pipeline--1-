@@ -22,7 +22,6 @@
   {%- assign external_video = true -%}
 {%- endif -%}
 
-{%- if product and product.tags contains 'show-video' -%}
 <section
   class="{{ section.settings.color_bg }}"
   style="
@@ -37,8 +36,7 @@
           class="block absolute top-0 right-0 bottom-0 left-0 w-full h-full"
           src="{{ video_url }}"
           frameborder="0"
-          loading="lazy"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allow="fullscreen"
           allowfullscreen>
         </iframe>
       {%- elsif html_video != blank -%}
@@ -47,7 +45,6 @@
     </div>
   </div>
 </section>
-{%- endif -%}
 
 {% schema %}
   {
