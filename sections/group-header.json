@@ -158,7 +158,7 @@
         "enable_account": true,
         "use_icons": true,
         "icons_type": "modern",
-        "cart_icon": "bag",
+        "cart_icon": "cart",
         "header_sticky": "sticky",
         "transparent_home": false,
         "transparent_collection": false,

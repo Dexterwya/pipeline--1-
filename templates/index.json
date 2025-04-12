@@ -71,7 +71,7 @@
         "progress_bar": "mobile",
         "grid_large": 5,
         "grid_medium": 4,
-        "grid_mobile": 1.9,
+        "grid_mobile": 2,
         "limit": 6,
         "bg": "palette--light bg--neutral",
         "width": "wrapper--full",
