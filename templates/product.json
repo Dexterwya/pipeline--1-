@@ -18,7 +18,7 @@
             "text_size": 9,
             "product_show_cutline": true,
             "show_rating": true,
-            "show_rating_count": false,
+            "show_rating_count": true,
             "padding_bottom": 20
           }
         },
