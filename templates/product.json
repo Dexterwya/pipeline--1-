@@ -159,6 +159,7 @@
     },
     "section_video_player_nVzJRd": {
       "type": "section-video-player",
+      "disabled": true,
       "settings": {
         "video": "shopify://files/videos/AQN9P3TKd30sqZpLcmEKAIhNMUsQXTJrwhpbUquOiK0RlmjWdfoe_yRDnv0T9LedY42xwRbojlxeHUbao_2kw6lqb8svNthOR4ERIzg.mp4",
         "video_link": "",
