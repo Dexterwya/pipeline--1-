@@ -16,7 +16,7 @@
           "type": "button",
           "settings": {
             "link_text_1": "new & now",
-            "link_1": "shopify://products/lino-set",
+            "link_1": "shopify://products/skyline-ease-set",
             "button_size_1": "btn--large",
             "button_style_1": "btn--soft",
             "button_color_1": "btn--white",
@@ -39,7 +39,7 @@
       "settings": {
         "height": "use_screen_three_quarters",
         "color_bg": "palette--light bg--neutral",
-        "video_bg": "shopify://files/videos/202504081143.mp4",
+        "video_bg": "shopify://files/videos/SnapInsta.to_AQO7XM4UJIEDIBC-CzvU8cNw46hQSUenOLICHWAPx-r-F1ceEVtW-2AZXxt3-yJphYu1iqKb6ZFhAowz5woATwa_w3KvUDrQ2K3VMCY.MP4",
         "object_position": "right-center",
         "preload_image": true,
         "text_align": "align--bottom-left",
