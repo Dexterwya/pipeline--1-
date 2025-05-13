@@ -117,9 +117,10 @@
         },
         "collection_BDnEJL": {
           "type": "collection",
-          "disabled": true,
           "settings": {
             "collection": "sets",
+            "image": "shopify://shop_images/C67B2ABB-66F5-4125-97EF-8D5A9CC3AE07.jpg",
+            "mobile_image": "shopify://shop_images/C67B2ABB-66F5-4125-97EF-8D5A9CC3AE07.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
