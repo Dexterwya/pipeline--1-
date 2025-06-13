@@ -204,6 +204,74 @@
         "padding_bottom": 36
       }
     },
+    "section_mosaic_WExBwz": {
+      "type": "section-mosaic",
+      "blocks": {
+        "image_nGNd4G": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Wk29_Portrait_598px_by_897pxTranseasonal_4_62c72ca3-1e41-41c4-bb29-2d4a15e42890.jpg",
+            "overlay_opacity": 20,
+            "overlay_color": "#000000",
+            "title_text": "Image",
+            "title_size": 8,
+            "text_align": "text-left tile--bottom",
+            "kicker_text": "",
+            "kicker_size": 3,
+            "link_text": "",
+            "link_url": "",
+            "link_size": 3
+          }
+        },
+        "image_3FyXz4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Wk29_Portrait_598px_by_897pxTranseasonal_4_3_470b90c0-7d0c-4f41-82fd-06cc76d91970.jpg",
+            "overlay_opacity": 20,
+            "overlay_color": "#000000",
+            "title_text": "Image",
+            "title_size": 8,
+            "text_align": "text-left tile--bottom",
+            "kicker_text": "",
+            "kicker_size": 3,
+            "link_text": "",
+            "link_url": "",
+            "link_size": 3
+          }
+        },
+        "image_fhtaRT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Wk29_Portrait_598px_by_897pxTranseasonal_4_2_1_0af77bec-694f-4e0e-86cd-ce446aff292c.jpg",
+            "overlay_opacity": 20,
+            "overlay_color": "#000000",
+            "title_text": "Image",
+            "title_size": 8,
+            "text_align": "text-left tile--bottom",
+            "kicker_text": "",
+            "kicker_size": 3,
+            "link_text": "",
+            "link_url": "",
+            "link_size": 3
+          }
+        }
+      },
+      "block_order": [
+        "image_nGNd4G",
+        "image_3FyXz4",
+        "image_fhtaRT"
+      ],
+      "name": "Mosaic",
+      "settings": {
+        "first_block_height": "short",
+        "wh_ratio": 1.3,
+        "split": "center",
+        "color_bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "section_collection_slider_wpADw4": {
       "type": "section-collection-slider",
       "settings": {
@@ -423,6 +491,26 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "17498023752bff3b83": {
+      "type": "apps",
+      "blocks": {
+        "trustoo_io_reviews_card_carousel_RTGcKQ": {
+          "type": "shopify://apps/trustoo-io-reviews/blocks/card-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "trustoo_io_reviews_card_carousel_RTGcKQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -430,11 +518,13 @@
     "tabs",
     "list-collections",
     "section_collection_eE8DjP",
+    "section_mosaic_WExBwz",
     "section_collection_slider_wpADw4",
     "section_hero_PGTEWM",
     "section_recent_products_WctWVc",
     "section_gallery_text_L7gix3",
     "icons",
-    "section_tabs_EyKGBg"
+    "section_tabs_EyKGBg",
+    "17498023752bff3b83"
   ]
 }
