@@ -261,6 +261,7 @@
         "image_3FyXz4",
         "image_fhtaRT"
       ],
+      "disabled": true,
       "name": "Mosaic",
       "settings": {
         "first_block_height": "short",
