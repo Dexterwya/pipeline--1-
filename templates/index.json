@@ -275,6 +275,7 @@
     },
     "section_collection_slider_wpADw4": {
       "type": "section-collection-slider",
+      "disabled": true,
       "settings": {
         "collection": "dresses",
         "product_limit": 12,
@@ -288,6 +289,49 @@
         "width": "wrapper",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "section_video_FiqpeR": {
+      "type": "section-video",
+      "blocks": {
+        "button_cH8n34": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "Tailored to Perfection",
+            "link_1": "shopify://collections/tailored-to-perfection",
+            "button_size_1": "btn--large",
+            "button_style_1": "btn",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "button_cH8n34"
+      ],
+      "settings": {
+        "height": "use_screen_three_quarters",
+        "color_bg": "palette--light bg--neutral",
+        "video_bg": "shopify://files/videos/If%20you%20like%20pants%20that%20barely%20feel%20like%20pants%20%E2%80%94%20the%20Lodge%20Linen..mp4",
+        "object_position": "right-center",
+        "preload_image": true,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "section_hero_PGTEWM": {
@@ -319,8 +363,8 @@
           "type": "button",
           "settings": {
             "link_text_1": "View product",
-            "link_1": "shopify://products/untitled-mar12_00-13",
-            "button_size_1": "btn--long",
+            "link_1": "shopify://products/ivory-flow-halter-top",
+            "button_size_1": "btn--small",
             "button_style_1": "btn--outline",
             "button_color_1": "btn--white",
             "link_text_2": "view more",
@@ -344,7 +388,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/IMG-8646.jpg",
-        "mobile_image": "shopify://shop_images/IMG_9999.jpg",
+        "mobile_image": "shopify://shop_images/508266907_18511525237024778_1735312856947400163_n.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -512,49 +556,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "section_video_FiqpeR": {
-      "type": "section-video",
-      "blocks": {
-        "button_cH8n34": {
-          "type": "button",
-          "settings": {
-            "link_text_1": "Tailored to Perfection",
-            "link_1": "shopify://collections/tailored-to-perfection",
-            "button_size_1": "btn--large",
-            "button_style_1": "btn",
-            "button_color_1": "btn--white",
-            "link_text_2": "",
-            "link_2": "",
-            "button_size_2": "btn--long",
-            "button_style_2": "btn-text-thick-line",
-            "button_color_2": "btn--white",
-            "link_text_3": "",
-            "link_3": "",
-            "button_size_3": "btn--long",
-            "button_style_3": "btn-text-thick-line",
-            "button_color_3": "btn--white"
-          }
-        }
-      },
-      "block_order": [
-        "button_cH8n34"
-      ],
-      "settings": {
-        "height": "use_screen_three_quarters",
-        "color_bg": "palette--light bg--neutral",
-        "video_bg": "shopify://files/videos/If%20you%20like%20pants%20that%20barely%20feel%20like%20pants%20%E2%80%94%20the%20Lodge%20Linen..mp4",
-        "object_position": "right-center",
-        "preload_image": true,
-        "text_align": "align--middle-center",
-        "text_color": "text--white",
-        "overlay_opacity": 15,
-        "overlay_color": "#000000",
-        "enable_overlay_text": false,
-        "width": "wrapper--none",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
@@ -564,12 +565,12 @@
     "section_collection_eE8DjP",
     "section_mosaic_WExBwz",
     "section_collection_slider_wpADw4",
+    "section_video_FiqpeR",
     "section_hero_PGTEWM",
     "section_recent_products_WctWVc",
     "section_gallery_text_L7gix3",
     "icons",
     "section_tabs_EyKGBg",
-    "17498023752bff3b83",
-    "section_video_FiqpeR"
+    "17498023752bff3b83"
   ]
 }
