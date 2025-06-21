@@ -103,6 +103,7 @@
           "type": "collection",
           "settings": {
             "collection": "bottoms",
+            "mobile_image": "shopify://shop_images/IMG_0218.webp",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
