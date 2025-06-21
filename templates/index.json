@@ -138,6 +138,7 @@
           "type": "collection",
           "settings": {
             "collection": "tops",
+            "mobile_image": "shopify://shop_images/0140D092-427D-4B66-B22B-C70388F54BC1.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
