@@ -155,6 +155,7 @@
           "type": "collection",
           "settings": {
             "collection": "dresses",
+            "mobile_image": "shopify://shop_images/FullSizeRender_fb29aff1-210a-46e7-a664-a7885f38c76a.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
