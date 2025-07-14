@@ -15,7 +15,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "text_size": 9,
+            "text_size": 5,
             "product_show_cutline": true,
             "show_rating": true,
             "show_rating_count": true,
@@ -25,16 +25,16 @@
         "price": {
           "type": "price",
           "settings": {
-            "price_size": 5,
-            "padding_bottom": 40
+            "price_size": 4,
+            "padding_bottom": 2
           }
         },
         "variants": {
           "type": "variant-selectors",
           "settings": {
             "option_size_swatch": 34,
-            "option_size_radio": 50,
-            "option_space": 30,
+            "option_size_radio": 20,
+            "option_space": 14,
             "padding_bottom": 30
           }
         },
@@ -68,7 +68,7 @@
           "settings": {
             "enable_payment_button": true,
             "enable_gift_card_recipient": true,
-            "padding_bottom": 20
+            "padding_bottom": 16
           }
         },
         "description": {
