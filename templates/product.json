@@ -142,7 +142,7 @@
       "settings": {
         "layout": "thumbnails-below@slides",
         "image_width": "wide",
-        "image_spacing": 10,
+        "image_spacing": 0,
         "align": "left",
         "bg": "palette--light bg--neutral",
         "mobile_layout": "carousel",
