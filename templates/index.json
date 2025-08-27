@@ -15,8 +15,8 @@
         "button_DNUC8N": {
           "type": "button",
           "settings": {
-            "link_text_1": "new & now",
-            "link_1": "shopify://collections/arrivals",
+            "link_text_1": "Wear It to Work",
+            "link_1": "shopify://collections/tailored-to-perfection",
             "button_size_1": "btn--large",
             "button_style_1": "btn--soft",
             "button_color_1": "btn--white",
@@ -82,11 +82,11 @@
     "list-collections": {
       "type": "section-list-collections",
       "blocks": {
-        "list-collections-0": {
+        "list-collections-4": {
           "type": "collection",
           "settings": {
-            "collection": "arrivals",
-            "mobile_image": "shopify://shop_images/IMG_0307.jpg",
+            "collection": "tops",
+            "mobile_image": "shopify://shop_images/IMG_0768.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
@@ -134,23 +134,6 @@
             "text_color": "text--white"
           }
         },
-        "list-collections-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "tops",
-            "mobile_image": "shopify://shop_images/IMG_0768.jpg",
-            "overlay_color": "#000000",
-            "overlay_opacity": 15,
-            "top_text": "",
-            "top_text_disabled": false,
-            "title": "",
-            "title_disabled": false,
-            "bottom_text": "",
-            "bottom_text_disabled": false,
-            "collection_url": "",
-            "text_color": "text--white"
-          }
-        },
         "list-collections-1": {
           "type": "collection",
           "settings": {
@@ -170,10 +153,9 @@
         }
       },
       "block_order": [
-        "list-collections-0",
+        "list-collections-4",
         "list-collections-3",
         "collection_BDnEJL",
-        "list-collections-4",
         "list-collections-1"
       ],
       "settings": {
