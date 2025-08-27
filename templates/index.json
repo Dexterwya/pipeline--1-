@@ -303,6 +303,7 @@
       "block_order": [
         "button_cH8n34"
       ],
+      "disabled": true,
       "settings": {
         "height": "use_screen_three_quarters",
         "color_bg": "palette--light bg--neutral",
