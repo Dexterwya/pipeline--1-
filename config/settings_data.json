@@ -84,11 +84,6 @@
           "greeting_message": ""
         }
       },
-      "1143683040400472741": {
-        "type": "shopify://apps/trustoo-io-reviews/blocks/trustoo-review-switch/c8f15077-6475-4e86-ad06-b66038d5ba2c",
-        "disabled": false,
-        "settings": {}
-      },
       "13045373370263289942": {
         "type": "shopify://apps/vanga-ai-upsell-app/blocks/cart/d34a5796-ad60-4937-91b7-563911e0a6ee",
         "disabled": false,
@@ -119,6 +114,11 @@
           "upsell_price_location": "inside_button",
           "vanga_cart_custom_css": ""
         }
+      },
+      "1143683040400472741": {
+        "type": "shopify://apps/trustoo-io-reviews/blocks/trustoo-review-switch/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+        "disabled": true,
+        "settings": {}
       }
     }
   },
