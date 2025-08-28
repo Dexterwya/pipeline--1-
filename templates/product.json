@@ -175,7 +175,7 @@
         "bg": "palette--light bg--neutral",
         "grid_large": 4,
         "grid_medium": 3,
-        "grid_small": 1.2,
+        "grid_small": 1.9,
         "related_products_enable": true,
         "limit": 6,
         "product_recommendations_heading": "Related products",
