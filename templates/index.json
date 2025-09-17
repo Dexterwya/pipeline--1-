@@ -349,7 +349,7 @@
           "type": "button",
           "settings": {
             "link_text_1": "View product",
-            "link_1": "shopify://products/ivory-flow-halter-top",
+            "link_1": "shopify://products/untitled-nov19_16-18",
             "button_size_1": "btn--small",
             "button_style_1": "btn--outline",
             "button_color_1": "btn--white",
@@ -374,7 +374,7 @@
       ],
       "settings": {
         "image": "shopify://shop_images/IMG-8646.jpg",
-        "mobile_image": "shopify://shop_images/508266907_18511525237024778_1735312856947400163_n.jpg",
+        "mobile_image": "shopify://shop_images/SnapInsta.to_470900797_600715152332533_6424622925354425919_n.jpg",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
