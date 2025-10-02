@@ -40,7 +40,7 @@
           "type": "button",
           "settings": {
             "link_text_1": "View products",
-            "link_1": "shopify://collections/arrivals",
+            "link_1": "shopify://collections/the-fall-collection",
             "button_size_1": "btn--long",
             "button_style_1": "btn-text-thick-line",
             "button_color_1": "btn--white",
