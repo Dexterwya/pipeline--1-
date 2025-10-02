@@ -40,7 +40,7 @@
           "type": "button",
           "settings": {
             "link_text_1": "View products",
-            "link_1": "shopify://collections/fall-25-felpafleece",
+            "link_1": "shopify://collections/new-in",
             "button_size_1": "btn--long",
             "button_style_1": "btn-text-thick-line",
             "button_color_1": "btn--white",
@@ -69,7 +69,7 @@
         "mobile_image": "shopify://shop_images/M_1_fec791e3-eff9-4bd4-b1ef-e0665db48165.webp",
         "height": "use_screen_full",
         "overlay_opacity": 15,
-        "overlay_color": "#000",
+        "overlay_color": "#000000",
         "enable_overlay_text": false,
         "preload_image": false,
         "content_width": 2000,
