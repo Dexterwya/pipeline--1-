@@ -81,6 +81,103 @@
         "padding_bottom": 0
       }
     },
+    "tabs": {
+      "type": "section-collection-tabs",
+      "blocks": {
+        "tab-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-in",
+            "title": "View All"
+          }
+        }
+      },
+      "block_order": [
+        "tab-0"
+      ],
+      "settings": {
+        "title": "NEW THIS WEEK",
+        "progress_bar": "both",
+        "grid_large": 5,
+        "grid_medium": 4,
+        "grid_mobile": 1.4,
+        "limit": 6,
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper--narrow",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "section_hero_MaLjCf": {
+      "type": "section-hero",
+      "blocks": {
+        "kicker_hT8Nyc": {
+          "type": "kicker",
+          "settings": {
+            "kicker": "Introducing",
+            "enable_line": false,
+            "text_size": 4
+          }
+        },
+        "heading_67DCjH": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Fall 25 Felpafleece",
+            "text_size": 8
+          }
+        },
+        "text_iYEgU4": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p><strong>Fall 25 Felpafleece</strong></p>",
+            "text_size": 9
+          }
+        },
+        "button_fRgTYN": {
+          "type": "button",
+          "settings": {
+            "link_text_1": "shop now",
+            "link_1": "shopify://collections/fall-25-felpafleece",
+            "button_size_1": "btn--long",
+            "button_style_1": "btn",
+            "button_color_1": "btn--white",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--long",
+            "button_style_2": "btn-text-thick-line",
+            "button_color_2": "btn--white",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "btn-text-thick-line",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "kicker_hT8Nyc",
+        "heading_67DCjH",
+        "text_iYEgU4",
+        "button_fRgTYN"
+      ],
+      "name": "Image banner",
+      "settings": {
+        "image": "shopify://shop_images/IMG_2442.jpg",
+        "height": "use_screen_two_thirds",
+        "overlay_opacity": 15,
+        "overlay_color": "#000",
+        "enable_overlay_text": false,
+        "preload_image": false,
+        "content_width": 2000,
+        "text_align": "align--middle-center",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "section_video_BHrNna": {
       "type": "section-video",
       "blocks": {
@@ -123,33 +220,6 @@
         "width": "wrapper--none",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "tabs": {
-      "type": "section-collection-tabs",
-      "blocks": {
-        "tab-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "new-in",
-            "title": "View All"
-          }
-        }
-      },
-      "block_order": [
-        "tab-0"
-      ],
-      "settings": {
-        "title": "NEW THIS WEEK",
-        "progress_bar": "both",
-        "grid_large": 5,
-        "grid_medium": 4,
-        "grid_mobile": 1.4,
-        "limit": 6,
-        "bg": "palette--light bg--neutral",
-        "width": "wrapper--narrow",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "list-collections": {
@@ -619,8 +689,9 @@
   },
   "order": [
     "section_hero_kaYgct",
-    "section_video_BHrNna",
     "tabs",
+    "section_hero_MaLjCf",
+    "section_video_BHrNna",
     "list-collections",
     "section_collection_eE8DjP",
     "section_mosaic_WExBwz",
