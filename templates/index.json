@@ -66,7 +66,7 @@
       "name": "Image banner",
       "settings": {
         "image": "shopify://shop_images/M_1_fec791e3-eff9-4bd4-b1ef-e0665db48165.webp",
-        "mobile_image": "shopify://shop_images/image.jpg",
+        "mobile_image": "shopify://shop_images/cff18492-a0d2-43c9-b465-7070ce87926d_2.png",
         "height": "use_screen_full",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
