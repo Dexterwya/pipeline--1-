@@ -161,6 +161,7 @@
         "text_iYEgU4",
         "button_fRgTYN"
       ],
+      "disabled": true,
       "name": "Image banner",
       "settings": {
         "image": "shopify://shop_images/79c4b987-8771-4447-87a8-1ff6f0634700.png",
