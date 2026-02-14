@@ -123,14 +123,14 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "title": "Fall 25 Felpafleece",
+            "title": "THE CODE — Spring 2026",
             "text_size": 8
           }
         },
         "text_iYEgU4": {
           "type": "text",
           "settings": {
-            "richtext": "<p><strong>Fall 25 Felpafleece</strong></p>",
+            "richtext": "<p><strong>THE CODE — SS26</strong></p>",
             "text_size": 9
           }
         },
@@ -161,11 +161,10 @@
         "text_iYEgU4",
         "button_fRgTYN"
       ],
-      "disabled": true,
       "name": "Image banner",
       "settings": {
         "image": "shopify://shop_images/79c4b987-8771-4447-87a8-1ff6f0634700.png",
-        "mobile_image": "shopify://shop_images/79c4b987-8771-4447-87a8-1ff6f0634700.png",
+        "mobile_image": "shopify://shop_images/6729dbad-1987-4cbf-ad43-771ef4a22747.png",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
