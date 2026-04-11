@@ -65,7 +65,7 @@
       ],
       "name": "Image banner",
       "settings": {
-        "image": "shopify://shop_images/Gemini_Generated_Image_hx8ahahx8ahahx8a_2.png",
+        "image": "shopify://shop_images/3cb0c9dd-35ab-4bc5-b05d-4e3d78a8a81f.png",
         "mobile_image": "shopify://shop_images/3cb0c9dd-35ab-4bc5-b05d-4e3d78a8a81f.png",
         "height": "use_screen_full",
         "overlay_opacity": 15,
@@ -231,6 +231,7 @@
           "type": "collection",
           "settings": {
             "collection": "tops",
+            "image": "shopify://shop_images/IMG_5865.jpg",
             "mobile_image": "shopify://shop_images/IMG_5865.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
@@ -248,6 +249,7 @@
           "type": "collection",
           "settings": {
             "collection": "bottoms",
+            "image": "shopify://shop_images/IMG_5872.jpg",
             "mobile_image": "shopify://shop_images/IMG_5872.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
@@ -265,7 +267,7 @@
           "type": "collection",
           "settings": {
             "collection": "sets",
-            "image": "shopify://shop_images/C67B2ABB-66F5-4125-97EF-8D5A9CC3AE07.jpg",
+            "image": "shopify://shop_images/ff6f0e02-2d06-4841-8e18-52af501934c1_png.png",
             "mobile_image": "shopify://shop_images/ff6f0e02-2d06-4841-8e18-52af501934c1_png.png",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
@@ -281,6 +283,7 @@
         },
         "list-collections-1": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "dresses",
             "mobile_image": "shopify://shop_images/FullSizeRender_fb29aff1-210a-46e7-a664-a7885f38c76a.jpg",
@@ -517,6 +520,7 @@
         "text_fjefPP",
         "button_kMHVqV"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG-8646.jpg",
         "mobile_image": "shopify://shop_images/IMG_2339.jpg",
