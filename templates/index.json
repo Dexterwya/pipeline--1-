@@ -322,6 +322,50 @@
         "padding_bottom": 36
       }
     },
+    "section_look_WtzW6g": {
+      "type": "section-look",
+      "blocks": {
+        "product_AnNCpb": {
+          "type": "product",
+          "settings": {
+            "product": "adele-lace-top",
+            "position_x": 40,
+            "position_y": 20,
+            "position_x_mobile": 100,
+            "position_y_mobile": 100
+          }
+        },
+        "product_jf46dp": {
+          "type": "product",
+          "settings": {
+            "product": "ace-lace-skirt",
+            "position_x": 60,
+            "position_y": 60,
+            "position_x_mobile": 50,
+            "position_y_mobile": 50
+          }
+        }
+      },
+      "block_order": [
+        "product_AnNCpb",
+        "product_jf46dp"
+      ],
+      "name": "Shop the look",
+      "settings": {
+        "image": "shopify://shop_images/b62c6a0d-195e-446a-8597-15edd976dd8f.jpg",
+        "wh_ratio": 0.5,
+        "default_open": true,
+        "dot_color": "palette--light bg--accent",
+        "card_color": "palette--light bg--neutral",
+        "position": "look__products__holder--right",
+        "grid_small": 1,
+        "image_mobile_enable": false,
+        "wh_ratio_mobile": 1,
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "section_collection_eE8DjP": {
       "type": "section-collection",
       "settings": {
@@ -520,10 +564,9 @@
         "text_fjefPP",
         "button_kMHVqV"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG-8646.jpg",
-        "mobile_image": "shopify://shop_images/IMG_2339.jpg",
+        "mobile_image": "shopify://shop_images/17288236-9331-41d7-bda5-6329d0528b8a.png",
         "height": "use_screen_two_thirds",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -699,6 +742,7 @@
     "section_hero_MaLjCf",
     "section_video_BHrNna",
     "list-collections",
+    "section_look_WtzW6g",
     "section_collection_eE8DjP",
     "section_mosaic_WExBwz",
     "section_collection_slider_wpADw4",
