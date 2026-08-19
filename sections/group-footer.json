@@ -18,14 +18,14 @@
           "type": "newsletter",
           "settings": {
             "show_image": false,
-            "wh_ratio": 2,
+            "wh_ratio": 2.6,
             "newsletter_enable": true,
             "recaptcha_enabled": false,
             "kicker": "",
-            "heading": "Exclusive offers straight to your inbox",
+            "heading": "CONNECT WITH US",
             "richtext": "<p>Join to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
             "text_size": 4,
-            "background_color": "#4f4f4f",
+            "background_color": "#4F4F4F",
             "text_color_value": "#ffffff"
           }
         },
