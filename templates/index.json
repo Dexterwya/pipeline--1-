@@ -66,7 +66,7 @@
       "name": "Image banner",
       "settings": {
         "image": "shopify://shop_images/3cb0c9dd-35ab-4bc5-b05d-4e3d78a8a81f.png",
-        "mobile_image": "shopify://shop_images/3cb0c9dd-35ab-4bc5-b05d-4e3d78a8a81f.png",
+        "mobile_image": "shopify://shop_images/57a1cccd-c275-4283-99cb-5f3a6278a287.png",
         "height": "use_screen_full",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -676,7 +676,7 @@
       "type": "apps",
       "blocks": {
         "trustoo_io_reviews_card_carousel_RTGcKQ": {
-          "type": "shopify://apps/trustwill-trustoo/blocks/card-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
+          "type": "shopify://apps/cwilltrustoo-reviews/blocks/card-carousel/c8f15077-6475-4e86-ad06-b66038d5ba2c",
           "settings": {}
         }
       },
