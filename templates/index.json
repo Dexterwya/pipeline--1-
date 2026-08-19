@@ -518,7 +518,7 @@
         "kicker_i77pbx": {
           "type": "kicker",
           "settings": {
-            "kicker": "Introducing",
+            "kicker": "",
             "enable_line": false,
             "text_size": 4
           }
@@ -526,43 +526,22 @@
         "heading_TQnJG6": {
           "type": "heading",
           "settings": {
-            "title": "Siamo",
+            "title": "",
             "text_size": 10
           }
         },
         "text_fjefPP": {
           "type": "text",
           "settings": {
-            "richtext": "<p>as shown, styled by our lovely client</p>",
+            "richtext": "",
             "text_size": 6
-          }
-        },
-        "button_kMHVqV": {
-          "type": "button",
-          "settings": {
-            "link_text_1": "View product",
-            "link_1": "shopify://products/untitled-nov19_16-18",
-            "button_size_1": "btn--small",
-            "button_style_1": "btn--outline",
-            "button_color_1": "btn--white",
-            "link_text_2": "view more",
-            "link_2": "shopify://collections/all",
-            "button_size_2": "btn--long",
-            "button_style_2": "btn-text-thick-line",
-            "button_color_2": "btn--white",
-            "link_text_3": "",
-            "link_3": "",
-            "button_size_3": "btn--long",
-            "button_style_3": "btn-text-thick-line",
-            "button_color_3": "btn--white"
           }
         }
       },
       "block_order": [
         "kicker_i77pbx",
         "heading_TQnJG6",
-        "text_fjefPP",
-        "button_kMHVqV"
+        "text_fjefPP"
       ],
       "settings": {
         "image": "shopify://shop_images/IMG-8646.jpg",
