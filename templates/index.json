@@ -227,6 +227,23 @@
     "list-collections": {
       "type": "section-list-collections",
       "blocks": {
+        "collection_wYfHyd": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "hats",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15,
+            "top_text": "",
+            "top_text_disabled": false,
+            "title": "",
+            "title_disabled": false,
+            "bottom_text": "",
+            "bottom_text_disabled": false,
+            "collection_url": "",
+            "text_color": "text--white"
+          }
+        },
         "list-collections-4": {
           "type": "collection",
           "settings": {
@@ -301,6 +318,7 @@
         }
       },
       "block_order": [
+        "collection_wYfHyd",
         "list-collections-4",
         "list-collections-3",
         "collection_BDnEJL",
