@@ -66,7 +66,7 @@
       "name": "Image banner",
       "settings": {
         "image": "shopify://shop_images/3cb0c9dd-35ab-4bc5-b05d-4e3d78a8a81f.png",
-        "mobile_image": "shopify://shop_images/57a1cccd-c275-4283-99cb-5f3a6278a287.png",
+        "mobile_image": "shopify://shop_images/3B2C69FB-2230-46A6-B60D-D5F758B191A9.jpg",
         "height": "use_screen_full",
         "overlay_opacity": 15,
         "overlay_color": "#000000",
@@ -249,7 +249,7 @@
           "settings": {
             "collection": "tops",
             "image": "shopify://shop_images/IMG_5865.jpg",
-            "mobile_image": "shopify://shop_images/IMG_5865.jpg",
+            "mobile_image": "shopify://shop_images/IMG_9314.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
@@ -267,7 +267,7 @@
           "settings": {
             "collection": "bottoms",
             "image": "shopify://shop_images/IMG_5872.jpg",
-            "mobile_image": "shopify://shop_images/IMG_5872.jpg",
+            "mobile_image": "shopify://shop_images/IMG_9315.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
@@ -285,7 +285,7 @@
           "settings": {
             "collection": "sets",
             "image": "shopify://shop_images/ff6f0e02-2d06-4841-8e18-52af501934c1_png.png",
-            "mobile_image": "shopify://shop_images/ff6f0e02-2d06-4841-8e18-52af501934c1_png.png",
+            "mobile_image": "shopify://shop_images/IMG_9317.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 15,
             "top_text": "",
@@ -343,20 +343,20 @@
     "section_look_WtzW6g": {
       "type": "section-look",
       "blocks": {
-        "product_AnNCpb": {
+        "product_Nghj3z": {
           "type": "product",
           "settings": {
-            "product": "adele-lace-top",
-            "position_x": 40,
-            "position_y": 20,
-            "position_x_mobile": 100,
-            "position_y_mobile": 100
+            "product": "star-top",
+            "position_x": 50,
+            "position_y": 50,
+            "position_x_mobile": 50,
+            "position_y_mobile": 50
           }
         },
         "product_jf46dp": {
           "type": "product",
           "settings": {
-            "product": "ace-lace-skirt",
+            "product": "low-rise-midi-skirt",
             "position_x": 60,
             "position_y": 60,
             "position_x_mobile": 50,
@@ -365,12 +365,12 @@
         }
       },
       "block_order": [
-        "product_AnNCpb",
+        "product_Nghj3z",
         "product_jf46dp"
       ],
       "name": "Shop the look",
       "settings": {
-        "image": "shopify://shop_images/b62c6a0d-195e-446a-8597-15edd976dd8f.jpg",
+        "image": "shopify://shop_images/IMG_9319.jpg",
         "wh_ratio": 0.5,
         "default_open": true,
         "dot_color": "palette--light bg--accent",
