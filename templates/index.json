@@ -65,7 +65,7 @@
       ],
       "name": "Image banner",
       "settings": {
-        "image": "shopify://shop_images/IMG_9848.jpg",
+        "image": "shopify://shop_images/landscape_style.jpg",
         "mobile_image": "shopify://shop_images/IMG_9848.jpg",
         "height": "use_screen_full",
         "overlay_opacity": 15,
